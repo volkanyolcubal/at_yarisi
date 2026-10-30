@@ -1,0 +1,635 @@
+Rapor   ŞehirAdı Hipodrom Adı                   Tarih           Saat    Sıcaklık Nem    Basınç  Gökyüzü         Rüzgar
+Rapor	İzmir	İzmir Şirinyer Hipodromu	29.10.2026	15:45	20	71	1012	Çok Bulutlu	11 km/sa B
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	29.10.2026	12:00	13	89	921	Çok Bulutlu	Kuzeyden 3
+Rapor	Elazığ	Elazığ Hipodromu	29.10.2026	09:27	15	92	1017	Çok Bulutlu	Doğu'dan 8 km/sa
+Rapor	Elazığ	Elazığ Hipodromu	29.10.2026	09:27	15	92	1017	Çok Bulutlu	Doğu'dan 8 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	28.10.2026	10:00	15	85	1015	Çok Bulutlu	30 km/sa kuzeydoğudan
+Rapor	Adana	Adana Yeşiloba Hipodromu	27.10.2026	13:00	24	64	1008	Çok Bulutlu	5
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	27.10.2026	16:15	14	94	1014	Hafif Yağmurlu	Kuzeyden9km/sa
+Rapor	Bursa	Bursa Osmangazi Hipodromu	26.10.2026	13:00	20	72	1008	Parçalı Bulutlu	Kuzey doğudan 9 km/sa
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	26.10.2026	15:52	25	37	1015	Parçalı Bulutlu	DOĞUDAN 6 KM
+Rapor	Adana	Adana Yeşiloba Hipodromu	25.10.2026	15:45	31	33	1008	Açık	4
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	25.10.2026	12:31	19	76	1016	Çok Bulutlu	KD 21
+Rapor	İzmir	İzmir Şirinyer Hipodromu	24.10.2026	12:10	22	68	1016	Açık	10 km/sa B
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	24.10.2026	09:30	13	77	925	Puslu	0
+Rapor	Bursa	Bursa Osmangazi Hipodromu	23.10.2026	11:00	20	70	1004	Çok Bulutlu	KUZEYDEN 6 KM/S
+Rapor	İzmir	İzmir Şirinyer Hipodromu	22.10.2026	16:25	26	31	1017	Parçalı Bulutlu	15 km/sa ;G
+Rapor	Bursa	Bursa Osmangazi Hipodromu	22.10.2026	10:45	18	63	1002	Çok Bulutlu	DOĞUDAN 11 KM/S
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	22.10.2026	12:00	17	50	930	Açık	0
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	21.10.2026	12:00	18	78	1025	Açık	12 km/sa güneydoğudan
+Rapor	Bursa	Bursa Osmangazi Hipodromu	21.10.2026	08:45	16	81	1006	Çok Bulutlu	KUZEYDEN 3 KM/S
+Rapor	Elazığ	Elazığ Hipodromu	21.10.2026	15:05	20	55	1021	Açık	Batı'dan 8 km/sa
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	20.10.2026	16:15	23	49	1025	Parçalı Bulutlu	Güneyden4km/sa
+Rapor	Adana	Adana Yeşiloba Hipodromu	20.10.2026	12:30	25	52	1008	Açık	3
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	19.10.2026	16:19	23	31	1017	Çok Bulutlu	BATIDAN 6 KM
+Rapor	Adana	Adana Yeşiloba Hipodromu	18.10.2026	16:15	25	60	1008	Az Bulutlu	14
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	18.10.2026	13:00	13	66	1020	Hafif Sağanak Yağışlı	GB 17
+Rapor	İzmir	İzmir Şirinyer Hipodromu	17.10.2026	14:45	15	71	1011	Çok Bulutlu	13 km/sa KD
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	17.10.2026	10:30	12	92	1012	Hafif Sağanak Yağışlı	25 km/sa kuzeyden
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	17.10.2026	12:00	10	92	920	Hafif Sağanak Yağışlı	0
+Rapor	Diyarbakır	Diyarbakır Hipodromu	17.10.2026	20:11	19	65	1013	Hafif Yağmurlu	2 KM SAAT
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	16.10.2026	15:06	14	69	1019	Hafif Sağanak Yağışlı	KD 33
+Rapor	İzmir	İzmir Şirinyer Hipodromu	15.10.2026	16:15	16	64	1017	Az Bulutlu	24 km/sa K
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	15.10.2026	12:00	18	66	919	Çok Bulutlu	0
+Rapor	Elazığ	Elazığ Hipodromu	14.10.2026	16:05	21	68	1015	Çok Bulutlu	Doğu'dan 10 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	14.10.2026	10:28	18	89	1013	Hafif Sağanak Yağışlı	KD 39
+Rapor	Elazığ	Elazığ Hipodromu	14.10.2026	16:05	21	68	1015	Çok Bulutlu	Doğu'dan 10 km/sa
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	13.10.2026	16:15	19	90	1015	Çok Bulutlu	Batıdan5km/sa
+Rapor	Adana	Adana Yeşiloba Hipodromu	13.10.2026	10:30	26	64	1008	Açık	4
+Rapor	Bursa	Bursa Osmangazi Hipodromu	12.10.2026	13:00	26	50	1004	Açık	KUZEYDEN 6 KM/S
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	12.10.2026	16:15	25	48	1017	Puslu	DOĞUDAN 7 KM
+Rapor	Adana	Adana Yeşiloba Hipodromu	11.10.2026	15:15	28	55	1008	Parçalı Bulutlu	5
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	11.10.2026	12:30	21	72	1012	Açık	G 9
+Rapor	Diyarbakır	Diyarbakır Hipodromu	10.10.2026	19:30	18	46	1015	Açık	2 KM SAAT
+Rapor	İzmir	İzmir Şirinyer Hipodromu	10.10.2026	15:15	28	26	1014	Az Bulutlu	8 km/sa B
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	10.10.2026	11:30	22	39	927	Açık	Güneyden 3
+Rapor	Bursa	Bursa Osmangazi Hipodromu	09.10.2026	13:00	24	52	1007	Açık	BATIDAN 7 KM/S
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	09.10.2026	15:15	21	55	1019	Açık	GB 13
+Rapor	İzmir	İzmir Şirinyer Hipodromu	08.10.2026	16:45	25	44	1020	Çok Bulutlu	14 km/sa K
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	08.10.2026	12:30	21	49	929	Parçalı Bulutlu	Kuzeyden 3
+Rapor	Elazığ	Elazığ Hipodromu	07.10.2026	16:08	19	64	1019	Çok Bulutlu	Doğu'dan 4 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	07.10.2026	12:31	21	53	1022	Parçalı Bulutlu	KD 23
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	06.10.2026	16:15	22	52	1022	Parçalı Bulutlu	Kuzeyden9km/sa
+Rapor	Adana	Adana Yeşiloba Hipodromu	06.10.2026	13:00	26	64	1008	Parçalı Bulutlu	5
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	05.10.2026	15:45	23	50	1016	Çok Bulutlu	doğudan 9 km
+Rapor	Bursa	Bursa Osmangazi Hipodromu	05.10.2026	14:00	22	51	1001	Açık	GÜNEYDEN 5 KM/S
+Rapor	Adana	Adana Yeşiloba Hipodromu	04.10.2026	15:45	19	87	1008	Parçalı Bulutlu	13
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	04.10.2026	12:30	21	47	1028	Parçalı Bulutlu	33 km/sa
+Rapor	Diyarbakır	Diyarbakır Hipodromu	03.10.2026	19:30	16	67	1020	Parçalı Bulutlu	2 KM SAAT
+Rapor	İzmir	İzmir Şirinyer Hipodromu	03.10.2026	14:45	25	35	1019	Çok Bulutlu	37 KM/SA
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	03.10.2026	12:30	17	49	930	Az Bulutlu	Doğudan 10
+Rapor	Bursa	Bursa Osmangazi Hipodromu	02.10.2026	14:00	20	63	1004	Çok Bulutlu	KUZEYDEN 32 KM/S
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	02.10.2026	15:16	21	56	1024	Çok Bulutlu	KD 27
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	01.10.2026	10:00	14	86	1023	Az Bulutlu	Güneydoğu 2km/sa
+Rapor	İzmir	İzmir Şirinyer Hipodromu	01.10.2026	16:45	22	43	1016	Parçalı Bulutlu	28 km/sa K
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	01.10.2026	12:30	16	55	922	Parçalı Bulutlu	0
+Rapor	Elazığ	Elazığ Hipodromu	30.09.2026	16:11	24	32	1011	Çok Bulutlu	Batı'dan 6 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	30.09.2026	12:00	20	57	1023	Çok Bulutlu	KD 38
+Rapor	Adana	Adana Yeşiloba Hipodromu	29.09.2026	12:30	28	38	1008	Parçalı Bulutlu	8
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	28.09.2026	16:26	27	32	1007	Az Bulutlu	KUZEYBATIDAN 19 KM
+Rapor	Adana	Adana Yeşiloba Hipodromu	27.09.2026	17:00	28	55	1008	Çok Bulutlu	14
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	27.09.2026	12:04	22	58	1018	Az Bulutlu	KD 31
+Rapor	Diyarbakır	Diyarbakır Hipodromu	26.09.2026	20:40	26	39	1008	Parçalı Bulutlu	2 KM SAAT
+Rapor	İzmir	İzmir Şirinyer Hipodromu	26.09.2026	14:45	26	37	1014	Az Bulutlu	12 km/sa KB
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	26.09.2026	11:30	20	57	926	Parçalı Bulutlu	Doğudan 3
+Rapor	Bursa	Bursa Osmangazi Hipodromu	25.09.2026	13:30	23	47	1014	Açık	DOĞUDAN 5 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	25.09.2026	13:46	23	45	1019	Parçalı Bulutlu	KD 32
+Rapor	İzmir	İzmir Şirinyer Hipodromu	24.09.2026	16:15	24	31	1019	Açık	24 km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	24.09.2026	12:30	17	45	927	Az Bulutlu	Kuzeyden 7
+Rapor	Elazığ	Elazığ Hipodromu	23.09.2026	16:09	31	19	1007	Parçalı Bulutlu	Güney'den 18 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	23.09.2026	12:50	17	76	1017	Çok Bulutlu	KB 17
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	22.09.2026	15:45	20	88	1015	Sağanak Yağışlı	Kuzeyden13km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	22.09.2026	13:00	22	59	921	Çok Bulutlu	Doğudan 6
+Rapor	Bursa	Bursa Osmangazi Hipodromu	21.09.2026	13:00	28	50	1004	Açık	KUZEYDEN 9 KM/S
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	21.09.2026	16:14	31	35	1009	Çok Bulutlu	DOĞUDAN 6 KM
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	20.09.2026	12:30	25	58	1023	Parçalı Bulutlu	KD 23
+Rapor	Adana	Adana Yeşiloba Hipodromu	20.09.2026	15:15	32	52	1008	Parçalı Bulutlu	14
+Rapor	Diyarbakır	Diyarbakır Hipodromu	19.09.2026	19:30	25	37	1010	Az Bulutlu	1 KM SAAT
+Rapor	İzmir	İzmir Şirinyer Hipodromu	19.09.2026	15:15	29	47	1017	Çok Bulutlu	14 KM/SA
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	19.09.2026	11:30	22	64	927	Az Bulutlu	Kuzeyden 2
+Rapor	Bursa	Bursa Osmangazi Hipodromu	18.09.2026	13:30	22	80	1004	Çok Bulutlu	BATIDAN 6 KM/S
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	18.09.2026	15:47	24	51	1016	Çok Bulutlu	KD 25
+Rapor	İzmir	İzmir Şirinyer Hipodromu	17.09.2026	15:46	29	42	1010	Az Bulutlu	13 km/sa KB
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	17.09.2026	13:00	19	79	922	Çok Bulutlu	Doğudan 2
+Rapor	Elazığ	Elazığ Hipodromu	16.09.2026	16:05	32	19	1006	Az Bulutlu	Batı'dan 10km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	16.09.2026	14:40	19	91	1018	Hafif Sağanak Yağışlı	8 km/sa doğudan
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	15.09.2026	16:15	25	46	1017	Çok Bulutlu	Batıdan12km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	15.09.2026	12:30	23	38	925	Parçalı Bulutlu	Kuzeyden 2
+Rapor	Bursa	Bursa Osmangazi Hipodromu	14.09.2026	13:00	24	55	1003	Parçalı Bulutlu	KUZEYDEN 10 KM/S
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	14.09.2026	16:18	35	19	1008	Açık	GÜNEYDEN 12 KM
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	13.09.2026	10:30	25	64	1015	Çok Bulutlu	KD 25
+Rapor	Adana	Adana Yeşiloba Hipodromu	13.09.2026	15:45	33	49	1008	Az Bulutlu	10
+Rapor	Diyarbakır	Diyarbakır Hipodromu	12.09.2026	19:30	26	29	1006	Açık	3 km saat
+Rapor	İzmir	İzmir Şirinyer Hipodromu	12.09.2026	14:15	32	39	1013	Açık	18 km/sa KB
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	12.09.2026	12:00	29	30	924	Açık	0
+Rapor	Bursa	Bursa Osmangazi Hipodromu	11.09.2026	13:30	30	51	1004	Açık	GÜNEYDEN 3 KM/S
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	11.09.2026	15:45	29	46	1017	Açık	KD 22
+Rapor	İzmir	İzmir Şirinyer Hipodromu	10.09.2026	15:43	31	45	1012	Açık	23 km/sa KB
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	10.09.2026	13:00	28	29	922	Açık	0
+Rapor	Elazığ	Elazığ Hipodromu	09.09.2026	16:03	29	22	1007	Açık	Güney'den 10 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	09.09.2026	12:00	26	49	1014	Az Bulutlu	D 19
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	08.09.2026	15:45	27	39	1019	Açık	Kuzeyden19km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	08.09.2026	12:30	22	43	928	Az Bulutlu	Doğudan 5
+Rapor	Bursa	Bursa Osmangazi Hipodromu	07.09.2026	13:00	30	33	1005	Açık	DOĞUDAN 14 KM/S
+Rapor	Elazığ	Elazığ Hipodromu	07.09.2026	16:12	28	22	1007	Az Bulutlu	Batı'dan 33 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	06.09.2026	12:31	26	72	1018	Açık	GB 13
+Rapor	Adana	Adana Yeşiloba Hipodromu	06.09.2026	17:00	36	55	1008	Az Bulutlu	15
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	05.09.2026	16:19	31	31	1017	Açık	KD 15
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	05.09.2026	12:30	27	29	926	Açık	Kuzeybatıdan 7
+Rapor	Bursa	Bursa Osmangazi Hipodromu	04.09.2026	13:30	29	51	1005	Açık	KUZEYDEN 27 KM/S
+Rapor	İzmir	İzmir Şirinyer Hipodromu	04.09.2026	15:43	34	26	1009	Açık	22 km/sa K
+Rapor	İzmir	İzmir Şirinyer Hipodromu	03.09.2026	16:13	34	32	1008	Açık	13 km/sa B
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	03.09.2026	13:00	29	30	922	Açık	Güneyden 5
+Rapor	Elazığ	Elazığ Hipodromu	02.09.2026	16:09	32	23	1007	Açık	Güney'den 3 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	02.09.2026	12:30	28	50	1018	Açık	D 20
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	01.09.2026	16:15	31	42	1015	Açık	Kuzeyden9km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	01.09.2026	13:00	28	44	923	Açık	Batıdan 3
+Rapor	Bursa	Bursa Osmangazi Hipodromu	31.08.2026	12:00	28	56	1004	Açık	KUZEYDEN 4 KM/S
+Rapor	Elazığ	Elazığ Hipodromu	31.08.2026	16:02	30	27	1005	Az Bulutlu	Batı'dan 5 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	30.08.2026	12:30	27	62	1017	Parçalı Bulutlu	KB 12
+Rapor	Adana	Adana Yeşiloba Hipodromu	30.08.2026	15:45	30	47	1008	Parçalı Bulutlu	17
+Rapor	Diyarbakır	Diyarbakır Hipodromu	29.08.2026	19:30	30	29	998	Çok Bulutlu	12 KM SAAT
+Rapor	İzmir	İzmir Şirinyer Hipodromu	29.08.2026	15:45	31	40	1012	Parçalı Bulutlu	17 km/sa K
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	29.08.2026	12:00	23	49	920	Çok Bulutlu	0
+Rapor	Bursa	Bursa Osmangazi Hipodromu	28.08.2026	10:00	27	47	1016	Parçalı Bulutlu	Kuzeyden 11km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	28.08.2026	15:45	27	50	1018	Hafif Sağanak Yağışlı	Kuzeyden 30
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	27.08.2026	15:45	32	42	1016	Açık	Batıdan9km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	27.08.2026	12:30	30	36	922	Açık	Doğudan 3
+Rapor	Elazığ	Elazığ Hipodromu	26.08.2026	15:40	34	20	1003	Az Bulutlu	Güney'den 13 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	26.08.2026	12:08	26	69	1014	Açık	GB 14
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	25.08.2026	16:15	33	48	1014	Açık	Batıdan12km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	25.08.2026	12:30	30	41	924	Açık	Doğudan 9
+Rapor	Bursa	Bursa Osmangazi Hipodromu	24.08.2026	12:00	33	38	1005	Açık	GÜNEYDEN 3 KM/S
+Rapor	Elazığ	Elazığ Hipodromu	24.08.2026	16:08	38	13	1002	Açık	Doğu'dan 10 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	23.08.2026	12:30	26	73	1015	Açık	GD 13
+Rapor	İzmir	İzmir Şirinyer Hipodromu	23.08.2026	17:00	36	31	1009	Açık	21 km/sa
+Rapor	Diyarbakır	Diyarbakır Hipodromu	22.08.2026	19:30	330	30	1001	Açık	2 KM SAAT
+Rapor	İzmir	İzmir Şirinyer Hipodromu	22.08.2026	15:45	35	40	1008	Açık	14 km/sa KB
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	22.08.2026	13:00	32	28	918	Açık	Doğudan 3
+Rapor	Bursa	Bursa Osmangazi Hipodromu	21.08.2026	11:30	29	53	1005	Açık	BATIDAN 9 KM/S
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	21.08.2026	15:15	30	52	1015	Açık	KD 30
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	20.08.2026	15:45	31	42	1018	Açık	Batıdan18km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	20.08.2026	13:00	30	35	926	Açık	Doğudan 3
+Rapor	Elazığ	Elazığ Hipodromu	19.08.2026	16:10	31	26	1005	Çok Bulutlu	Güney'den 13 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	19.08.2026	13:00	30	34	1014	Parçalı Bulutlu	KD 24
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	18.08.2026	16:15	32	35	1009	Açık	Batıdan13km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	18.08.2026	13:00	28	40	919	Açık	Kuzeyoğudan 14
+Rapor	Bursa	Bursa Osmangazi Hipodromu	17.08.2026	11:30	27	50	1012	Parçalı Bulutlu	DOĞUDAN 5 KM/S
+Rapor	Elazığ	Elazığ Hipodromu	17.08.2026	16:09	32	33	1002	Parçalı Bulutlu	Doğu'dan 5 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	16.08.2026	12:00	27	45	1015	Çok Bulutlu	KD 30
+Rapor	İzmir	İzmir Şirinyer Hipodromu	16.08.2026	16:15	33	33	1009	Az Bulutlu	18 km/sa K
+Rapor	Diyarbakır	Diyarbakır Hipodromu	15.08.2026	19:30	30	39	1001	Az Bulutlu	2 KM SAAT
+Rapor	İzmir	İzmir Şirinyer Hipodromu	15.08.2026	15:15	33	31	1007	Az Bulutlu	13 km/sa K
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	15.08.2026	12:00	22	33	922	Açık	Kuzeyoğudan 33
+Rapor	Bursa	Bursa Osmangazi Hipodromu	14.08.2026	12:00	29	45	1011	Açık	KUZEYDEN 31 KM/S
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	14.08.2026	16:15	27	42	1017	Çok Bulutlu	KD 39
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	13.08.2026	15:45	31	57	1017	Açık	Kuzeyden21m/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	13.08.2026	12:30	29	36	925	Parçalı Bulutlu	Kuzeydoğudan 3
+Rapor	Elazığ	Elazığ Hipodromu	12.08.2026	16:10	34	25	1003	Az Bulutlu	Batı'dan 8 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	12.08.2026	12:00	30	39	1016	Açık	KD 35
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	11.08.2026	15:45	30	65	1014	Parçalı Bulutlu	Batıdan11km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	11.08.2026	12:30	30	32	923	Parçalı Bulutlu	Doğudan 28
+Rapor	Bursa	Bursa Osmangazi Hipodromu	10.08.2026	12:00	31	55	1011	Az Bulutlu	KUZEYDEN 27 KM/S
+Rapor	Elazığ	Elazığ Hipodromu	10.08.2026	16:04	35	22	1001	Parçalı Bulutlu	Batı'dan 18 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	09.08.2026	13:00	26	73	1015	Çok Bulutlu	KB 25
+Rapor	İzmir	İzmir Şirinyer Hipodromu	09.08.2026	16:14	37	34	1006	Açık	27 km/sa K
+Rapor	Diyarbakır	Diyarbakır Hipodromu	08.08.2026	19:30	33	28	997	Açık	3 KM SAAT
+Rapor	İzmir	İzmir Şirinyer Hipodromu	08.08.2026	15:15	36	32	1005	Açık	15 km/sa b
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	08.08.2026	12:30	30	32	918	Az Bulutlu	Kuzeybatıdan 33
+Rapor	Bursa	Bursa Osmangazi Hipodromu	07.08.2026	12:00	30	59	1012	Çok Bulutlu	KUZEYDEN 10 KM/S
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	07.08.2026	15:46	32	45	1009	Az Bulutlu	KD 29
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	06.08.2026	16:15	31	51	1016	Parçalı Bulutlu	Kuzeyden14km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	06.08.2026	13:00	28	42	921	Az Bulutlu	Güneyden 13
+Rapor	Elazığ	Elazığ Hipodromu	05.08.2026	16:10	36	14	1003	Açık	Güney'den 17 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	05.08.2026	12:30	32	41	1014	Açık	KD 14
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	04.08.2026	15:45	32	42	1015	Açık	Batıdan9km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	04.08.2026	13:00	31	21	923	Açık	Kuzeybatıdan 17
+Rapor	Bursa	Bursa Osmangazi Hipodromu	03.08.2026	12:30	30	55	1012	Açık	BATIDAN 13 KM/S
+Rapor	Elazığ	Elazığ Hipodromu	03.08.2026	14:03	37	16	1002	Az Bulutlu	Güney'den 13 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	02.08.2026	12:01	28	56	1013	Az Bulutlu	KD 31
+Rapor	İzmir	İzmir Şirinyer Hipodromu	02.08.2026	17:00	32	44	1009	Açık	20 km/sa KB
+Rapor	Diyarbakır	Diyarbakır Hipodromu	01.08.2026	19:30	37	20	998	Açık	10 KM SAAT
+Rapor	İzmir	İzmir Şirinyer Hipodromu	01.08.2026	15:15	36	26	1006	Açık	18 km/sa K
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	01.08.2026	12:00	24	35	921	Açık	DKuzeydoğudan 11
+Rapor	Bursa	Bursa Osmangazi Hipodromu	31.07.2026	12:00	28	44	1011	Açık	KUZEYDEN 34 km/s
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	31.07.2026	16:21	27	48	1015	Parçalı Bulutlu	KD 43
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	30.07.2026	15:15	27	48	1020	Açık	Kuzeyden19km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	30.07.2026	12:30	23	37	926	Açık	Kuzeydoğudan 20
+Rapor	Elazığ	Elazığ Hipodromu	29.07.2026	16:03	36	31	1001	Az Bulutlu	Kuzey'den 14 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	29.07.2026	13:02	29	32	1022	Az Bulutlu	KD 32
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	28.07.2026	15:45	31	51	1016	Parçalı Bulutlu	Batıdan15km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	28.07.2026	11:00	30	30	924	Az Bulutlu	Doğudan 4
+Rapor	Bursa	Bursa Osmangazi Hipodromu	27.07.2026	12:00	30	46	1012	Açık	KUZEYDEN 6 KM/S
+Rapor	Elazığ	Elazığ Hipodromu	27.07.2026	16:04	33	19	1005	Açık	Kuzey'den 10 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	26.07.2026	12:00	24	77	1016	Az Bulutlu	GB 14
+Rapor	İzmir	İzmir Şirinyer Hipodromu	26.07.2026	17:00	29	41	1013	Açık	21 km/sa B
+Rapor	Diyarbakır	Diyarbakır Hipodromu	25.07.2026	19:30	32	31	996	Açık	3 KM SAAT
+Rapor	İzmir	İzmir Şirinyer Hipodromu	25.07.2026	15:45	28	34	1006	Çok Bulutlu	28 km/sa K
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	25.07.2026	13:00	18	75	912	Çok Bulutlu	0
+Rapor	Bursa	Bursa Osmangazi Hipodromu	24.07.2026	11:30	26	54	1011	Açık	DOĞUDAN 6 KM/S
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	24.07.2026	15:15	27	41	10070	Parçalı Bulutlu	KD 25
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	23.07.2026	16:15	27	52	1011	Çok Bulutlu	Kuzeyden11km%sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	23.07.2026	13:00	28	47	917	Parçalı Bulutlu	Kuzeyden 12
+Rapor	Elazığ	Elazığ Hipodromu	22.07.2026	16:08	37	16	998	Az Bulutlu	Kuzey'den 10 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	22.07.2026	13:00	28	50	1011	Açık	G 12
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	21.07.2026	16:15	32	49	1015	Açık	Kuzeyden13km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	21.07.2026	12:30	31	26	921	Açık	Kuzeyden 10
+Rapor	Bursa	Bursa Osmangazi Hipodromu	20.07.2026	12:00	30	54	1010	Açık	KUZEYDEN 10 KM/S
+Rapor	Elazığ	Elazığ Hipodromu	20.07.2026	16:08	35	13	1004	Açık	Batı'dan 11 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	19.07.2026	12:00	32	47	1011	Açık	KD 16
+Rapor	İzmir	İzmir Şirinyer Hipodromu	19.07.2026	16:58	35	26	1009	Açık	17 km/sa KB
+Rapor	Diyarbakır	Diyarbakır Hipodromu	18.07.2026	19:30	33	24	999	Açık	6 KM SAAT
+Rapor	İzmir	İzmir Şirinyer Hipodromu	18.07.2026	14:45	35	38	1007	Açık	13 km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	18.07.2026	12:30	30	36	920	Az Bulutlu	Doğudan 11
+Rapor	Bursa	Bursa Osmangazi Hipodromu	17.07.2026	12:00	31	48	1010	Çok Bulutlu	KUZEYDEN 25 KM/S
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	17.07.2026	15:15	33	28	1013	Açık	KD 30
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	16.07.2026	15:45	31	48	1016	Parçalı Bulutlu	Kuzeyden14km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	16.07.2026	13:00	29	36	923	Az Bulutlu	Doğudan 3
+Rapor	Elazığ	Elazığ Hipodromu	15.07.2026	16:09	35	19	1002	Az Bulutlu	Doğu'dan 11 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	15.07.2026	12:30	26	64	1017	Az Bulutlu	GB 13
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	14.07.2026	15:45	25	63	1014	Çok Bulutlu	Kuzeyden13km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	14.07.2026	12:30	27	45	920	Parçalı Bulutlu	Güneyden 4
+Rapor	Bursa	Bursa Osmangazi Hipodromu	13.07.2026	12:00	28	55	1011	Az Bulutlu	KUZEYDEN 8 KM/S
+Rapor	Elazığ	Elazığ Hipodromu	13.07.2026	16:07	36	19	999	Az Bulutlu	Kuzey'den 11 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	12.07.2026	12:34	30	36	1015	Açık	KD 16
+Rapor	İzmir	İzmir Şirinyer Hipodromu	12.07.2026	16:15	35	24	1009	Açık	18 km/sa B
+Rapor	Diyarbakır	Diyarbakır Hipodromu	11.07.2026	19:30	33	18	1000	Açık	1 km/sa
+Rapor	İzmir	İzmir Şirinyer Hipodromu	11.07.2026	15:45	35	15	1013	Açık	17 km/sa K
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	11.07.2026	12:00	27	38	926	Açık	Kuzeyden 3
+Rapor	Bursa	Bursa Osmangazi Hipodromu	10.07.2026	12:00	26	50	1014	Az Bulutlu	Güneyden 3 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	10.07.2026	16:16	26	61	1015	Parçalı Bulutlu	GB 13
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	09.07.2026	15:45	23	94	1008	Çok Bulutlu	Kuzeyden9km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	09.07.2026	13:00	29	28	916	Az Bulutlu	Güneyden 9
+Rapor	Elazığ	Elazığ Hipodromu	08.07.2026	17:15	32	18	998	Açık	Batı'dan 20 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	08.07.2026	12:30	26	49	1012	Açık	GB 9
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	07.07.2026	15:45	28	41	1015	Açık	Kuzeyden20km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	07.07.2026	12:30	28	42	922	Parçalı Bulutlu	Doğudan 2
+Rapor	Bursa	Bursa Osmangazi Hipodromu	06.07.2026	11:30	27	31	1014	Açık	Doğudan 11 km/sa
+Rapor	Elazığ	Elazığ Hipodromu	06.07.2026	15:57	32	27	1001	Parçalı Bulutlu	Kuzey'den 10 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	05.07.2026	10:06	27	40	1014	Parçalı Bulutlu	KD 24
+Rapor	İzmir	İzmir Şirinyer Hipodromu	05.07.2026	16:15	33	28	1007	Açık	26 km/sa KD
+Rapor	Diyarbakır	Diyarbakır Hipodromu	04.07.2026	19:30	35	25	995	Parçalı Bulutlu	9 Km/sa
+Rapor	İzmir	İzmir Şirinyer Hipodromu	04.07.2026	15:45	34	42	1008	Çok Bulutlu	31 km/sa B
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	04.07.2026	12:00	28	39	919	Açık	Kuzeyden 9
+Rapor	Bursa	Bursa Osmangazi Hipodromu	03.07.2026	12:00	30	41	1010	Açık	Güneyden 5 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	03.07.2026	15:48	29	63	1011	Parçalı Bulutlu	GB 18
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	02.07.2026	16:15	31	42	1009	Açık	Kuzeyden20km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	02.07.2026	12:00	31	32	917	Açık	Kuzeyden 6
+Rapor	Elazığ	Elazığ Hipodromu	01.07.2026	16:56	33	17	1001	Açık	Batı'dan 11 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	01.07.2026	12:30	30	52	1010	Açık	KD 24
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	30.06.2026	16:15	33	40	1014	Açık	Kuzeyden19km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	30.06.2026	13:00	31	32	923	Açık	Doğudan 5
+Rapor	Bursa	Bursa Osmangazi Hipodromu	29.06.2026	12:30	32	33	1016	Açık	doğudan 13 km/sa
+Rapor	Elazığ	Elazığ Hipodromu	29.06.2026	16:09	33	18	1006	Açık	Güney'den 7 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	28.06.2026	12:30	28	41	1020	Az Bulutlu	KD 42
+Rapor	İzmir	İzmir Şirinyer Hipodromu	28.06.2026	19:10	34	32	1011	Açık	17 km/sa K
+Rapor	Diyarbakır	Diyarbakır Hipodromu	27.06.2026	19:25	31	27	1002	Açık	5 KM SAAT
+Rapor	İzmir	İzmir Şirinyer Hipodromu	27.06.2026	15:45	36	20	1011	Açık	24 km/sa D
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	27.06.2026	12:30	28	38	925	Parçalı Bulutlu	Doğudan 4
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	26.06.2026	16:15	31	42	1015	Parçalı Bulutlu	Kuzeyden18km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	26.06.2026	12:30	29	36	922	Az Bulutlu	Doğudan 5
+Rapor	Bursa	Bursa Osmangazi Hipodromu	25.06.2026	12:00	30	52	1012	Açık	KUZEYDEN 22 KM/S
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	25.06.2026	15:45	31	41	1014	Az Bulutlu	K 30
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	24.06.2026	10:30	29	37	1015	Az Bulutlu	KD 34
+Rapor	Elazığ	Elazığ Hipodromu	24.06.2026	16:00	33	22	907	Az Bulutlu	Kuzeybatıdan 19 km/sa
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	23.06.2026	16:15	28	32	1015	Açık	Kuzeyden22km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	23.06.2026	13:00	26	39	921	Açık	Doğudan 2
+Rapor	Bursa	Bursa Osmangazi Hipodromu	22.06.2026	12:00	28	52	1010	Açık	KUZEYDEN 23 KM/S
+Rapor	Elazığ	Elazığ Hipodromu	22.06.2026	16:00	33	17	1011	Parçalı Bulutlu	Kuzeyden 6 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	21.06.2026	12:00	25	60	1022	Açık	G 13
+Rapor	İzmir	İzmir Şirinyer Hipodromu	21.06.2026	16:15	34	30	1014	Açık	17 km/sa
+Rapor	Diyarbakır	Diyarbakır Hipodromu	20.06.2026	19:30	32	22	1005	Açık	3 KM SAAT
+Rapor	İzmir	İzmir Şirinyer Hipodromu	20.06.2026	14:45	30	40	1015	Parçalı Bulutlu	11 km/sa k
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	20.06.2026	11:30	23	41	926	Parçalı Bulutlu	Doğudan 10
+Rapor	Bursa	Bursa Osmangazi Hipodromu	19.06.2026	12:30	24	57	1011	Çok Bulutlu	KUZEYDEN 22 KM/S
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	19.06.2026	16:16	26	41	1018	Çok Bulutlu	KD16
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	18.06.2026	16:15	28	47	1016	Çok Bulutlu	Kuzeyden17km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	18.06.2026	13:00	29	37	919	Parçalı Bulutlu	Güneyden 5
+Rapor	Elazığ	Elazığ Hipodromu	17.06.2026	16:15	32	16	1008	Açık	2 km/sa batıdan
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	17.06.2026	13:03	27	54	1018	Parçalı Bulutlu	KD 24
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	16.06.2026	17:00	31	39	1016	Açık	Batıdan11km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	16.06.2026	12:30	27	35	926	Açık	Güneyden 4
+Rapor	Bursa	Bursa Osmangazi Hipodromu	15.06.2026	12:30	29	44	1010	Açık	GÜNEYDEN 6 KM/S
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	15.06.2026	16:20	33	16	1007	Açık	KUZEY BATIDAN 1 KM
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	14.06.2026	12:33	22	62	1016	Parçalı Bulutlu	GB 16
+Rapor	İzmir	İzmir Şirinyer Hipodromu	14.06.2026	16:20	29	30	1012	Açık	13 km/sa K
+Rapor	Diyarbakır	Diyarbakır Hipodromu	13.06.2026	19:30	31	27	999	Çok Bulutlu	1 KM SAAT
+Rapor	İzmir	İzmir Şirinyer Hipodromu	13.06.2026	14:56	25	64	1011	Çok Bulutlu	20 km/sa B
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	13.06.2026	12:30	24	52	919	Çok Bulutlu	0
+Rapor	Bursa	Bursa Osmangazi Hipodromu	12.06.2026	12:30	28	53	1000	Açık	BATIDAN 7 KM/S
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	12.06.2026	16:15	27	48	1014	Açık	KD 27
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	11.06.2026	15:45	28	43	1014	Açık	Kuzeyden14km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	11.06.2026	12:00	25	49	922	Az Bulutlu	Kuzeyden 6
+Rapor	Elazığ	Elazığ Hipodromu	10.06.2026	16:00	31	19	1005	Çok Bulutlu	Rüzgar Kuzeybatıdan 8 km /sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	10.06.2026	12:30	26	49	1015	Açık	KD 14
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	09.06.2026	16:15	26	53	1015	Çok Bulutlu	Doğudan14km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	09.06.2026	12:30	26	45	922	Parçalı Bulutlu	Güneyden 5
+Rapor	Bursa	Bursa Osmangazi Hipodromu	08.06.2026	12:30	27	59	1010	Açık	BATIDAN 13 KM/S
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	08.06.2026	16:52	35	17	1005	Parçalı Bulutlu	KUZEYDEN 6 KM
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	07.06.2026	12:30	24	70	1017	Açık	GB 9
+Rapor	İzmir	İzmir Şirinyer Hipodromu	07.06.2026	17:00	32	33	1013	Açık	14 km/sa B
+Rapor	Diyarbakır	Diyarbakır Hipodromu	06.06.2026	19:30	25	37	1005	Çok Bulutlu	8 KM SAAT
+Rapor	İzmir	İzmir Şirinyer Hipodromu	06.06.2026	15:15	31	42	1013	Açık	18 km/sa B
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	06.06.2026	12:00	27	41	922	Az Bulutlu	Kuzeyden 1
+Rapor	Bursa	Bursa Osmangazi Hipodromu	05.06.2026	12:30	29	55	1011	Çok Bulutlu	KUZEYDOĞUDAN 11 KM/S
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	05.06.2026	16:15	28	48	1013	Az Bulutlu	KD 32
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	04.06.2026	15:45	32	35	1011	Açık	Batıdan5km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	04.06.2026	12:00	25	48	922	Parçalı Bulutlu	K.Doğudan 8
+Rapor	Elazığ	Elazığ Hipodromu	03.06.2026	16:00	25	28	1010	Çok Bulutlu	Güneydoğudan 12 km(sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	03.06.2026	13:02	25	56	1013	Parçalı Bulutlu	GB 13
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	02.06.2026	15:45	31	39	1015	Açık	Batıdan4km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	02.06.2026	13:00	24	47	925	Parçalı Bulutlu	Kuzeyden 4
+Rapor	Bursa	Bursa Osmangazi Hipodromu	01.06.2026	12:30	27	44	1012	Az Bulutlu	BATIDAN 14 KM/S
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	01.06.2026	16:21	32	19	1010	Parçalı Bulutlu	GÜNEYBATIDAN 11 KM
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	31.05.2026	12:18	21	62	1014	Parçalı Bulutlu	GB 21
+Rapor	Adana	Adana Yeşiloba Hipodromu	31.05.2026	15:45	31	35	1008	Az Bulutlu	2
+Rapor	Diyarbakır	Diyarbakır Hipodromu	30.05.2026	19:30	21	28	1010	Açık	5 KM SAAT
+Rapor	İzmir	İzmir Şirinyer Hipodromu	30.05.2026	15:16	27	28	1015	Açık	15 km/sa B
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	30.05.2026	11:30	15	42	926	Açık	Kuzeyden 4
+Rapor	Bursa	Bursa Osmangazi Hipodromu	29.05.2026	13:00	21	63	1010	Parçalı Bulutlu	KUZEYDEN 26 KM/S
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	29.05.2026	16:17	19	51	1020	Parçalı Bulutlu	GD 11
+Rapor	İzmir	İzmir Şirinyer Hipodromu	28.05.2026	15:45	29	34	1010	Açık	20 km/sa KB
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	28.05.2026	12:30	24	48	919	Çok Bulutlu	Güneyden 16
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	27.05.2026	13:32	26	37	1017	Açık	GB 18
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	26.05.2026	16:15	25	57	1021	Parçalı Bulutlu	Kuzeyden9km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	26.05.2026	13:00	21	42	928	Açık	Doğudan 3
+Rapor	Bursa	Bursa Osmangazi Hipodromu	25.05.2026	12:30	22	73	1011	Çok Bulutlu	BATINDAN 12 KM/S
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	25.05.2026	16:13	25	36	1013	Çok Bulutlu	GÜNEYDOĞUDAN 6 KM
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	24.05.2026	12:00	20	77	1019	Çok Bulutlu	K 25
+Rapor	Adana	Adana Yeşiloba Hipodromu	24.05.2026	15:45	24	77	1008	Çok Bulutlu	3
+Rapor	Diyarbakır	Diyarbakır Hipodromu	23.05.2026	19:30	14	75	1014	Sağanak Yağışlı	3 KM SAAT
+Rapor	İzmir	İzmir Şirinyer Hipodromu	23.05.2026	14:45	24	65	1014	Çok Bulutlu	14 km/sa KB
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	23.05.2026	12:00	14	86	922	Çok Bulutlu	Batıdan 3
+Rapor	Bursa	Bursa Osmangazi Hipodromu	22.05.2026	12:30	21	79	1010	Çok Bulutlu	BATIDAN 5 KM/S
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	22.05.2026	14:20	20	75	1014	Çok Bulutlu	GB 16
+Rapor	İzmir	İzmir Şirinyer Hipodromu	21.05.2026	15:46	20	74	1011	Çok Bulutlu	14 km/sa KB
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	21.05.2026	12:30	19	58	917	Çok Bulutlu	Kuzeyden 4
+Rapor	Elazığ	Elazığ Hipodromu	20.05.2026	17:00	15	89	1003	Yağmurlu	BATIDAN DOĞUYA 9 KM\H
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	20.05.2026	16:00	17	87	1010	Sağanak Yağışlı	K 17
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	19.05.2026	15:45	25	43	1011	Açık	Batıdan11km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	19.05.2026	12:30	18	60	921	Çok Bulutlu	Kuzeyden 3
+Rapor	Bursa	Bursa Osmangazi Hipodromu	18.05.2026	12:30	19	68	1011	Parçalı Bulutlu	BATIDAN 5 KM/S
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	18.05.2026	16:22	26	30	1002	Parçalı Bulutlu	KUZEYDEN 7 KM
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	17.05.2026	10:31	20	81	1003	Parçalı Bulutlu	GB 22
+Rapor	Adana	Adana Yeşiloba Hipodromu	17.05.2026	17:00	25	63	1008	Çok Bulutlu	18
+Rapor	Diyarbakır	Diyarbakır Hipodromu	16.05.2026	19:30	18	51	1002	Çok Bulutlu	5 KM SAAT
+Rapor	İzmir	İzmir Şirinyer Hipodromu	16.05.2026	14:45	27	33	1007	Parçalı Bulutlu	15 km/sa G
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	16.05.2026	12:00	16	42	919	Açık	Kuzeyden 3
+Rapor	Bursa	Bursa Osmangazi Hipodromu	15.05.2026	12:00	19	63	1011	Açık	KUZEYDEN 10 KM/S
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	15.05.2026	15:45	18	52	1010	Az Bulutlu	GB 12
+Rapor	İzmir	İzmir Şirinyer Hipodromu	14.05.2026	15:46	22	59	1003	Parçalı Bulutlu	18 km/sa KB
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	14.05.2026	13:00	22	40	910	Çok Bulutlu	Batıdan 16
+Rapor	Elazığ	Elazığ Hipodromu	13.05.2026	16:04	24	34	1002	Çok Bulutlu	Doğu'dan 17 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	13.05.2026	11:00	22	68	1006	Çok Bulutlu	GB 18
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	12.05.2026	16:15	29	42	1006	Açık	Kuzeyden11km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	12.05.2026	12:30	21	58	918	Çok Bulutlu	Güneyden 6
+Rapor	Bursa	Bursa Osmangazi Hipodromu	11.05.2026	12:00	25	60	1012	Açık	BATIDAN 6 KM/S
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	11.05.2026	16:32	30	28	1009	Parçalı Bulutlu	doğudan 4 km
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	10.05.2026	12:30	20	71	1016	Az Bulutlu	GB 13
+Rapor	Adana	Adana Yeşiloba Hipodromu	10.05.2026	15:45	33	36	1008	Açık	9
+Rapor	Diyarbakır	Diyarbakır Hipodromu	09.05.2026	19:30	22	35	1014	Parçalı Bulutlu	3 KM SAAT
+Rapor	İzmir	İzmir Şirinyer Hipodromu	09.05.2026	14:43	26	44	1015	Çok Bulutlu	8 km/sa GB
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	09.05.2026	12:00	19	54	926	Çok Bulutlu	0
+Rapor	Bursa	Bursa Osmangazi Hipodromu	08.05.2026	12:30	25	48	1014	Çok Bulutlu	KUZEYDEN 8 KM/S
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	08.05.2026	15:50	22	41	1018	Çok Bulutlu	B 14
+Rapor	İzmir	İzmir Şirinyer Hipodromu	07.05.2026	16:16	26	32	1018	Çok Bulutlu	15 km/sa KB
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	07.05.2026	13:00	17	51	927	Az Bulutlu	Kuzeyden 3
+Rapor	Elazığ	Elazığ Hipodromu	06.05.2026	16:06	14	74	1014	Çok Bulutlu	Güney'den 11 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	06.05.2026	12:34	16	49	1018	Açık	GB 11
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	05.05.2026	15:45	13	85	1016	Çok Bulutlu	Batıdan7km/sa
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	05.05.2026	13:00	11	67	919	Çok Bulutlu	Kuzeyden 8
+Rapor	Bursa	Bursa Osmangazi Hipodromu	04.05.2026	12:30	12	67	1013	Çok Bulutlu	KUZEYDEN 12 KM/S
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	04.05.2026	16:17	16	58	1009	Çok Bulutlu	BATIDAN 9 KM
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	03.05.2026	12:30	11	85	1020	Yağmurlu	KD 34
+Rapor	Adana	Adana Yeşiloba Hipodromu	03.05.2026	15:30	18	98	1008	Yağmurlu	2
+Rapor	Diyarbakır	Diyarbakır Hipodromu	02.05.2026	19:30	15	71	1012	Gökgürültülü Sağanak Yağışlı	4 KM SAAT
+Rapor	İzmir	İzmir Şirinyer Hipodromu	02.05.2026	14:45	14	54	1013	Çok Bulutlu	32 km/sa K
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	02.05.2026	12:30	9	68	920	Çok Bulutlu	K. Doğudan 16
+Rapor	Bursa	Bursa Osmangazi Hipodromu	01.05.2026	12:30	10	84	1012	Yağmurlu	KUZEYDEN 15 KM/S
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	01.05.2026	16:37	10	85	1021	Hafif Sağanak Yağışlı	KD 24
+Rapor	İzmir	İzmir Şirinyer Hipodromu	30.04.2026	15:43	28	22	1014	Az Bulutlu	13 km/sa KB
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	30.04.2026	12:30	18	33	923	Açık	Kuzeyden 4
+Rapor	Elazığ	Elazığ Hipodromu	29.04.2026	16:00	22	25	1008	Parçalı Bulutlu	Doğu'dan 15 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	29.04.2026	12:35	15	63	1020	Açık	GD 12
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	28.04.2026	12:00	15	58	1020	Az Bulutlu	Güneydoğudan6km/sa
+Rapor	Elazığ	Elazığ Hipodromu	28.04.2026	16:00	19	52	1008	Parçalı Bulutlu	Batı'dan 1 km/sa
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	27.04.2026	16:08	24	35	1010	Parçalı Bulutlu	BATIDAN 4 KM
+Rapor	Bursa	Bursa Osmangazi Hipodromu	27.04.2026	12:30	17	66	1012	Çok Bulutlu	KUZEYDEN 17 KM/S
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	26.04.2026	13:00	16	75	1015	Açık	GB 11
+Rapor	Adana	Adana Yeşiloba Hipodromu	26.04.2026	15:45	32	35	1008	Az Bulutlu	24
+Rapor	Diyarbakır	Diyarbakır Hipodromu	25.04.2026	19:30	18	51	1013	Çok Bulutlu	3 KM SAAT
+Rapor	İzmir	İzmir Şirinyer Hipodromu	25.04.2026	14:45	22	44	1013	Parçalı Bulutlu	23 km/sa B
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	25.04.2026	13:00	16	45	923	Açık	Doğudan 4
+Rapor	Bursa	Bursa Osmangazi Hipodromu	24.04.2026	12:00	16	64	1010	Açık	GÜNEYDEN 3 KM/S
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	24.04.2026	15:45	15	66	1014	Parçalı Bulutlu	GB 15
+Rapor	İzmir	İzmir Şirinyer Hipodromu	23.04.2026	16:15	16	64	1011	Çok Bulutlu	11 km/sa K
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	23.04.2026	12:30	6	87	918	Hafif Yağmurlu	Güneyden 2
+Rapor	Elazığ	Elazığ Hipodromu	22.04.2026	16:55	18	43	1010	Çok Bulutlu	Batı'dan 6 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	22.04.2026	12:46	10	97	1013	Yağmurlu	KD 23
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	21.04.2026	13:00	19	45	1014	Parçalı Bulutlu	Batıdan9km/sa
+Rapor	Elazığ	Elazığ Hipodromu	21.04.2026	16:03	16	39	1010	Parçalı Bulutlu	Doğu'dan 12 km/sa
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	20.04.2026	16:18	19	53	1006	Çok Bulutlu	GÜNEYBATIDAN 12 KM
+Rapor	Bursa	Bursa Osmangazi Hipodromu	20.04.2026	12:30	16	46	1010	Açık	KUZEYDEN 4 KM/S
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	19.04.2026	12:31	14	77	1017	Çok Bulutlu	GB 15
+Rapor	Adana	Adana Yeşiloba Hipodromu	19.04.2026	15:17	18	98	1008	Çok Bulutlu	5
+Rapor	Diyarbakır	Diyarbakır Hipodromu	18.04.2026	19:30	12	74	1007	Çok Bulutlu	4KMSAAT
+Rapor	İzmir	İzmir Şirinyer Hipodromu	18.04.2026	15:15	19	40	1007	Parçalı Bulutlu	24 km/sa K
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	18.04.2026	12:00	13	80	911	Çok Bulutlu	Kuzeyden 4
+Rapor	Bursa	Bursa Osmangazi Hipodromu	17.04.2026	12:00	13	81	1011	Çok Bulutlu	KUZEYDEN 3 KM/S
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	17.04.2026	16:26	13	72	1011	Çok Bulutlu	K 29
+Rapor	İzmir	İzmir Şirinyer Hipodromu	16.04.2026	16:15	20	60	1012	Çok Bulutlu	15 km/sa K
+Rapor	Ankara	Ankara 75. Yıl Hipodromu	16.04.2026	13:00	21	37	924	Parçalı Bulutlu	G. Doğudan 1
+Rapor	Elazığ	Elazığ Hipodromu	15.04.2026	16:06	18	36	1018	Açık	Batı'dan 10 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	15.04.2026	12:33	17	47	1022	Çok Bulutlu	KD 19
+Rapor	Kocaeli	Kocaeli Kartepe Hipodromu	14.04.2026	12:00	16	39	1025	Açık	Doğudan13km/sa
+Rapor	Elazığ	Elazığ Hipodromu	14.04.2026	16:07	14	40	1019	Çok Bulutlu	Güney''den 13 km/sa
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	13.04.2026	16:02	16	19	1016	Açık	KUZEY BATIDAN 9 km
+Rapor	Bursa	Bursa Osmangazi Hipodromu	13.04.2026	12:30	14	51	1010	Az Bulutlu	KUZEYDEN 5 KM/S
+Rapor	İzmir	İzmir Şirinyer Hipodromu	12.04.2026	12:59	17	40	1019	Açık	18 km/sa B
+Rapor	Adana	Adana Yeşiloba Hipodromu	12.04.2026	16:15	18	50	1008	Parçalı Bulutlu	17
+Rapor	Adana	Adana Yeşiloba Hipodromu	11.04.2026	12:30	20	41	1008	Parçalı Bulutlu	7
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	11.04.2026	16:15	12	50	1020	Çok Bulutlu	12 km/sa güneybatıdan
+Rapor	Antalya	Antalya Hipodromu	10.04.2026	13:00	17	36	975	Açık	5 km /sa Kuzey doğudan
+Rapor	İzmir	İzmir Şirinyer Hipodromu	10.04.2026	16:15	17	36	1015	Çok Bulutlu	15 km/sa KB
+Rapor	Antalya	Antalya Hipodromu	09.04.2026	17:00	11	85	974	Hafif Sağanak Yağışlı	0
+Rapor	İzmir	İzmir Şirinyer Hipodromu	09.04.2026	13:30	16	43	1013	Çok Bulutlu	8 km/sa K
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	08.04.2026	12:46	14	47	1014	Çok Bulutlu	K 28
+Rapor	Elazığ	Elazığ Hipodromu	08.04.2026	16:07	16	53	1007	Çok Bulutlu	Kuzey'den 20 km/sa
+Rapor	Antalya	Antalya Hipodromu	07.04.2026	15:45	20	68	983	Az Bulutlu	8 km/sa Güneybatıdan
+Rapor	Adana	Adana Yeşiloba Hipodromu	07.04.2026	12:30	21	66	1008	Az Bulutlu	10
+Rapor	İzmir	İzmir Şirinyer Hipodromu	06.04.2026	13:35	20	52	1020	Açık	20 km/sa B
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	06.04.2026	17:01	15	47	1015	Çok Bulutlu	BATIDAN 12 KM
+Rapor	Bursa	Bursa Osmangazi Hipodromu	06.04.2026	11:30	16	62	1009	Açık	KUZEDYEN 6 KM/S
+Rapor	İzmir	İzmir Şirinyer Hipodromu	05.04.2026	16:15	18	60	1018	Çok Bulutlu	24 km/sa K
+Rapor	Adana	Adana Yeşiloba Hipodromu	05.04.2026	12:30	21	63	1008	Çok Bulutlu	9
+Rapor	Adana	Adana Yeşiloba Hipodromu	04.04.2026	12:30	21	52	1008	Parçalı Bulutlu	5
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	04.04.2026	16:20	13	91	1013	Çok Bulutlu	K 22
+Rapor	İzmir	İzmir Şirinyer Hipodromu	03.04.2026	15:20	13	87	1007	Yağmurlu	26 km/sa GD
+Rapor	Bursa	Bursa Osmangazi Hipodromu	03.04.2026	13:30	17	58	1010	Çok Bulutlu	GÜNEYDEN 14 KM/S
+Rapor	Antalya	Antalya Hipodromu	02.04.2026	17:30	17	68	968	Çok Bulutlu	11 km/sa Güneyden
+Rapor	İzmir	İzmir Şirinyer Hipodromu	02.04.2026	12:30	15	74	1001	Çok Bulutlu	20 km/sa GB
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	01.04.2026	13:01	19	49	1011	Parçalı Bulutlu	GD 21
+Rapor	Elazığ	Elazığ Hipodromu	01.04.2026	16:05	14	55	1015	Çok Bulutlu	Güney'den 6 km/sa
+Rapor	Antalya	Antalya Hipodromu	31.03.2026	16:15	16	67	974	Çok Bulutlu	11 km/sa Güneyden
+Rapor	Adana	Adana Yeşiloba Hipodromu	31.03.2026	13:30	21	49	1008	Açık	10
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	30.03.2026	16:21	15	51	1005	Çok Bulutlu	GÜNEYBATIDAN 11 KM
+Rapor	Bursa	Bursa Osmangazi Hipodromu	30.03.2026	13:00	10	91	1010	Yağmurlu	GÜNEYDEN 16 KM/S
+Rapor	Adana	Adana Yeşiloba Hipodromu	29.03.2026	16:15	16	74	1008	Parçalı Bulutlu	12
+Rapor	İzmir	İzmir Şirinyer Hipodromu	29.03.2026	13:00	11	90	1004	Yağmurlu	4 km/sa KD
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	28.03.2026	16:27	11	98	1004	Hafif Sağanak Yağışlı	GD 6
+Rapor	Adana	Adana Yeşiloba Hipodromu	28.03.2026	12:30	20	69	1008	Çok Bulutlu	10
+Rapor	Antalya	Antalya Hipodromu	27.03.2026	13:30	18	64	971	Çok Bulutlu	5 km/ sa Güneydoğudan
+Rapor	İzmir	İzmir Şirinyer Hipodromu	27.03.2026	16:15	16	71	1006	Çok Bulutlu	35 km/sa G
+Rapor	Antalya	Antalya Hipodromu	26.03.2026	16:15	19	47	964	Açık	16 km/sa Güneydoğudan
+Rapor	İzmir	İzmir Şirinyer Hipodromu	26.03.2026	13:29	17	47	1005	Açık	9 km/sa K
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	25.03.2026	13:00	14	51	1010	Parçalı Bulutlu	30 km/sa kuzeydoğudan
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	25.03.2026	16:34	16	50	997	Çok Bulutlu	DOĞUDAN 5 KM
+Rapor	Antalya	Antalya Hipodromu	24.03.2026	16:15	11	87	968	Hafif Sağanak Yağışlı	3 Km/sa Güneyden
+Rapor	Adana	Adana Yeşiloba Hipodromu	24.03.2026	13:00	18	61	1008	Çok Bulutlu	8
+Rapor	Adana	Adana Yeşiloba Hipodromu	23.03.2026	10:00	16	77	1008	Çok Bulutlu	5
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	23.03.2026	15:49	14	64	1012	Çok Bulutlu	GÜNEYDOĞUDAN 13 KM
+Rapor	Bursa	Bursa Osmangazi Hipodromu	23.03.2026	13:30	11	81	1010	Çok Bulutlu	BATIDAN 6 KM/S
+Rapor	Adana	Adana Yeşiloba Hipodromu	22.03.2026	16:15	19	64	1008	Çok Bulutlu	10
+Rapor	İzmir	İzmir Şirinyer Hipodromu	22.03.2026	12:58	15	60	1009	Parçalı Bulutlu	26 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	21.03.2026	16:17	9	100	1008	Hafif Yağmurlu	KD 28
+Rapor	Adana	Adana Yeşiloba Hipodromu	21.03.2026	12:45	11	98	1008	Yağmurlu	9
+Rapor	İzmir	İzmir Şirinyer Hipodromu	20.03.2026	13:30	11	61	1003	Çok Bulutlu	28 km/sa
+Rapor	Antalya	Antalya Hipodromu	19.03.2026	16:15	17	58	963	Çok Bulutlu	14 km/sa Batıdan
+Rapor	İzmir	İzmir Şirinyer Hipodromu	19.03.2026	13:28	13	67	1006	Çok Bulutlu	19 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	18.03.2026	13:32	10	77	1016	Çok Bulutlu	KD 26
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	18.03.2026	16:57	18	46	1012	Parçalı Bulutlu	GÜNEYDOĞUDAN 5 KM
+Rapor	Antalya	Antalya Hipodromu	17.03.2026	17:00	16	58	976	Çok Bulutlu	8 km/sa Güneydoğudan
+Rapor	Adana	Adana Yeşiloba Hipodromu	17.03.2026	13:00	20	66	1008	Parçalı Bulutlu	1
+Rapor	Adana	Adana Yeşiloba Hipodromu	16.03.2026	10:30	16	70	1008	Çok Bulutlu	4
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	16.03.2026	16:20	11	88	1012	Çok Bulutlu	0
+Rapor	Bursa	Bursa Osmangazi Hipodromu	16.03.2026	13:00	11	63	1010	Çok Bulutlu	BATIDAN 5 KM/S
+Rapor	İzmir	İzmir Şirinyer Hipodromu	15.03.2026	12:30	11	64	1008	Çok Bulutlu	11 km/sa KB
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	14.03.2026	17:05	10	60	1012	Çok Bulutlu	KD 24
+Rapor	Adana	Adana Yeşiloba Hipodromu	14.03.2026	12:30	16	44	1008	Çok Bulutlu	16
+Rapor	Antalya	Antalya Hipodromu	13.03.2026	13:00	18	32	977	Açık	3 km/sa Doğudan
+Rapor	İzmir	İzmir Şirinyer Hipodromu	13.03.2026	17:30	15	53	1014	Açık	15 km/sa K
+Rapor	Antalya	Antalya Hipodromu	12.03.2026	17:00	17	37	979	Açık	10 km/sa Güney Doğudan
+Rapor	İzmir	İzmir Şirinyer Hipodromu	12.03.2026	13:28	16	45	1021	Açık	17 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	11.03.2026	12:00	12	60	1027	Açık	KD 10
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	11.03.2026	16:44	14	25	1023	Açık	KUZEYBATIDAN 3 KM
+Rapor	Antalya	Antalya Hipodromu	10.03.2026	17:00	17	27	989	Açık	9 km/sa
+Rapor	Adana	Adana Yeşiloba Hipodromu	10.03.2026	13:00	19	22	1008	Açık	9
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	09.03.2026	16:34	14	21	1019	Açık	KUZEYBATIDAN 18 KM
+Rapor	Bursa	Bursa Osmangazi Hipodromu	09.03.2026	12:30	10	57	1009	Parçalı Bulutlu	KUZEYDEN 13 KM/S
+Rapor	Adana	Adana Yeşiloba Hipodromu	08.03.2026	15:45	19	21	1008	Açık	5
+Rapor	İzmir	İzmir Şirinyer Hipodromu	08.03.2026	13:00	14	44	1024	Açık	12 km/sa K
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	07.03.2026	16:15	10	44	1030	Parçalı Bulutlu	KD 22
+Rapor	Adana	Adana Yeşiloba Hipodromu	07.03.2026	13:00	16	27	1008	Açık	25
+Rapor	İzmir	İzmir Şirinyer Hipodromu	06.03.2026	17:00	17	58	1021	Parçalı Bulutlu	13 km/sa B
+Rapor	Bursa	Bursa Osmangazi Hipodromu	06.03.2026	13:00	14	69	1009	Açık	DOĞUDAN 8 KM/S
+Rapor	Antalya	Antalya Hipodromu	05.03.2026	16:15	17	41	983	Açık	16 km/sa Kuzey Doğudan
+Rapor	İzmir	İzmir Şirinyer Hipodromu	05.03.2026	12:31	15	44	1023	Açık	8 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	04.03.2026	13:00	11	64	1031	Az Bulutlu	GD 10
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	04.03.2026	12:32	8	56	1018	Parçalı Bulutlu	GÜNEYDOĞUDAN 2 KM
+Rapor	Antalya	Antalya Hipodromu	03.03.2026	17:00	16	56	984	Az Bulutlu	10km/sa Kuzey Doğudan
+Rapor	Adana	Adana Yeşiloba Hipodromu	03.03.2026	13:00	20	36	1008	Açık	4
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	02.03.2026	16:43	13	23	1021	Açık	KUZEYDOĞUDAN 10 KM
+Rapor	Bursa	Bursa Osmangazi Hipodromu	02.03.2026	13:00	11	64	1010	Açık	GÜNEYDEN 3 KM/S
+Rapor	Adana	Adana Yeşiloba Hipodromu	01.03.2026	16:15	17	30	1008	Açık	5
+Rapor	İzmir	İzmir Şirinyer Hipodromu	01.03.2026	13:00	11	52	1025	Açık	20 km/sa K
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	28.02.2026	15:45	8	60	1029	Çok Bulutlu	KD 17
+Rapor	Adana	Adana Yeşiloba Hipodromu	28.02.2026	13:00	16	29	1008	Açık	4
+Rapor	Antalya	Antalya Hipodromu	27.02.2026	13:00	10	35	29	Açık	26 km/sa
+Rapor	İzmir	İzmir Şirinyer Hipodromu	27.02.2026	17:30	10	44	1024	Açık	31 km/sa
+Rapor	Antalya	Antalya Hipodromu	26.02.2026	16:15	12	38	29	Parçalı Bulutlu	23 Km/Sa
+Rapor	İzmir	İzmir Şirinyer Hipodromu	26.02.2026	13:00	11	53	1024	Parçalı Bulutlu	28 km/sa K
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	25.02.2026	13:00	9	63	1021	Çok Bulutlu	KD 15
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	25.02.2026	16:19	17	42	1014	Parçalı Bulutlu	GÜNEYBATIDAN 10 KM
+Rapor	Antalya	Antalya Hipodromu	24.02.2026	15:45	17	53	977	Açık	11 km/sa Güney doğudan
+Rapor	Adana	Adana Yeşiloba Hipodromu	24.02.2026	13:00	20	40	1008	Açık	6
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	23.02.2026	16:32	16	38	1010	Parçalı Bulutlu	KUZEYBATIDAN 1 KM
+Rapor	Bursa	Bursa Osmangazi Hipodromu	23.02.2026	12:30	8	62	1010	Az Bulutlu	DOĞUDAN 6 KM/S
+Rapor	Adana	Adana Yeşiloba Hipodromu	22.02.2026	16:15	20	57	1008	Çok Bulutlu	15
+Rapor	İzmir	İzmir Şirinyer Hipodromu	22.02.2026	13:00	12	73	1016	Çok Bulutlu	23 km/sa KD
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	21.02.2026	16:04	13	62	1016	Açık	KB 25
+Rapor	Adana	Adana Yeşiloba Hipodromu	21.02.2026	13:30	21	43	1008	Açık	12
+Rapor	Antalya	Antalya Hipodromu	20.02.2026	13:00	10	35	29	Açık	26 Km/Sa
+Rapor	İzmir	İzmir Şirinyer Hipodromu	20.02.2026	14:30	16	54	1018	Çok Bulutlu	24 km/sa
+Rapor	Bursa	Bursa Osmangazi Hipodromu	20.02.2026	13:00	16	43	1010	Açık	GÜNEYDEN 24 KM/S
+Rapor	Antalya	Antalya Hipodromu	19.02.2026	17:30	15	37	982	Açık	14 km/sa Kuzey Batıdan
+Rapor	İzmir	İzmir Şirinyer Hipodromu	19.02.2026	12:30	12	60	1022	Açık	6 km/sa G
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	18.02.2026	13:00	2	91	1003	Karla Karışık Yağmurlu	32 km/sa kuzeyden
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	18.02.2026	16:31	16	62	1007	Çok Bulutlu	GÜNEYDOĞUDAN 7 KM
+Rapor	Antalya	Antalya Hipodromu	17.02.2026	17:00	15	78	967	Çok Bulutlu	19 km/sa Kuzey Batıdan
+Rapor	Adana	Adana Yeşiloba Hipodromu	17.02.2026	13:30	15	92	1008	Gökgürültülü Sağanak Yağışlı	23
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	16.02.2026	17:06	17	54	1018	Parçalı Bulutlu	DOĞUDAN 7 KM
+Rapor	Bursa	Bursa Osmangazi Hipodromu	16.02.2026	13:00	17	57	1012	Çok Bulutlu	GÜNEYDEN 13 KM/S
+Rapor	Adana	Adana Yeşiloba Hipodromu	15.02.2026	16:15	21	68	1008	Çok Bulutlu	5
+Rapor	İzmir	İzmir Şirinyer Hipodromu	15.02.2026	13:00	20	48	1008	Parçalı Bulutlu	34 km/sa GD
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	14.02.2026	16:25	14	67	1009	Parçalı Bulutlu	G 10
+Rapor	Adana	Adana Yeşiloba Hipodromu	14.02.2026	12:00	13	100	1008	Çok Bulutlu	10
+Rapor	Antalya	Antalya Hipodromu	13.02.2026	13:10	11	89	958	Sağanak Yağışlı	10 km/sa Güneydoğudan
+Rapor	İzmir	İzmir Şirinyer Hipodromu	13.02.2026	17:00	12	95	989	Yağmurlu	14 km/sa GD
+Rapor	Antalya	Antalya Hipodromu	12.02.2026	15:45	16	78	964	Az Bulutlu	8 km/sa Kuzeyden
+Rapor	İzmir	İzmir Şirinyer Hipodromu	12.02.2026	13:35	16	87	996	Çok Bulutlu	23km/sa G
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	11.02.2026	13:31	8	82	1011	Çok Bulutlu	GB 9
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	11.02.2026	17:10	11	74	1012	Yağmurlu	BATIDAN 3 KM
+Rapor	Antalya	Antalya Hipodromu	10.02.2026	17:30	14	80	968	Kapalı	11 km/sa Güney doğudan
+Rapor	Adana	Adana Yeşiloba Hipodromu	10.02.2026	13:00	18	75	1008	Çok Bulutlu	5
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	09.02.2026	16:36	16	57	1008	Çok Bulutlu	BATIDAN 4 KM
+Rapor	Bursa	Bursa Osmangazi Hipodromu	09.02.2026	12:00	12	93	1012	Çok Bulutlu	KUZEYDEN 10 KM/S
+Rapor	Adana	Adana Yeşiloba Hipodromu	08.02.2026	16:15	15	83	1008	Çok Bulutlu	7
+Rapor	İzmir	İzmir Şirinyer Hipodromu	08.02.2026	12:30	12	97	1005	Yağmurlu	5 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	07.02.2026	16:15	16	70	1004	Çok Bulutlu	KB 16
+Rapor	Adana	Adana Yeşiloba Hipodromu	07.02.2026	12:15	10	100	1008	Yağmurlu	13
+Rapor	İzmir	İzmir Şirinyer Hipodromu	06.02.2026	17:30	16	84	1003	Çok Bulutlu	15 km/sa
+Rapor	Bursa	Bursa Osmangazi Hipodromu	06.02.2026	13:00	16	59	1012	Çok Bulutlu	GÜNEYDEN 11 KM/S
+Rapor	Antalya	Antalya Hipodromu	05.02.2026	16:15	13	81	976	Kapalı	6 km/sa Güneyden
+Rapor	İzmir	İzmir Şirinyer Hipodromu	05.02.2026	14:00	13	81	1004	Yağmurlu	23 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	04.02.2026	13:02	9	75	1020	Çok Bulutlu	GD 13
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	04.02.2026	17:01	12	33	1017	Açık	KUZEYBATIDAN 22 KM
+Rapor	Antalya	Antalya Hipodromu	03.02.2026	16:15	15	39	979	Açık	13 km/sa Kuzey Batıdan
+Rapor	Adana	Adana Yeşiloba Hipodromu	03.02.2026	13:00	18	54	1008	Parçalı Bulutlu	13
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	02.02.2026	16:30	14	80	1012	Çok Bulutlu	13 km doğudan
+Rapor	Bursa	Bursa Osmangazi Hipodromu	02.02.2026	12:00	8	91	1010	Yağmurlu	BATIDAN 6 KM/S
+Rapor	Adana	Adana Yeşiloba Hipodromu	01.02.2026	16:15	19	77	1008	Çok Bulutlu	3
+Rapor	İzmir	İzmir Şirinyer Hipodromu	01.02.2026	13:02	15	74	1003	Çok Bulutlu	5 km/sa B
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	31.01.2026	15:47	8	92	1003	Çok Bulutlu	KD 22
+Rapor	Adana	Adana Yeşiloba Hipodromu	31.01.2026	12:30	12	100	1008	Yağmurlu	6
+Rapor	Antalya	Antalya Hipodromu	30.01.2026	13:30	16	78	964	Az Bulutlu	6 Km/sa Kuzey Batıdan
+Rapor	İzmir	İzmir Şirinyer Hipodromu	30.01.2026	16:15	17	52	1001	Az Bulutlu	10 km/sa
+Rapor	Antalya	Antalya Hipodromu	29.01.2026	16:15	11	92	974	Hafif Sağanak Yağışlı	0
+Rapor	İzmir	İzmir Şirinyer Hipodromu	29.01.2026	13:00	13	88	1004	Yağmurlu	23 km/sa GD
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	28.01.2026	13:04	12	91	1010	Çok Bulutlu	G 13
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	28.01.2026	16:52	6	96	1014	Yağmurlu	KUZEYDEN 4 KM
+Rapor	Antalya	Antalya Hipodromu	27.01.2026	16:15	9	91	970	Hafif Yağmurlu	13 km/sa Kuzey Batıdan
+Rapor	Adana	Adana Yeşiloba Hipodromu	27.01.2026	13:00	15	58	1008	Çok Bulutlu	14
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	26.01.2026	17:09	12	53	1020	Parçalı Bulutlu	DOĞUDAN 4 KM
+Rapor	Bursa	Bursa Osmangazi Hipodromu	26.01.2026	12:30	14	64	1010	Çok Bulutlu	Kuzeydoğudan 6 km/sa
+Rapor	Adana	Adana Yeşiloba Hipodromu	25.01.2026	17:00	16	55	1008	Açık	2
+Rapor	İzmir	İzmir Şirinyer Hipodromu	25.01.2026	12:28	16	67	1018	Çok Bulutlu	18 km/sa G
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	24.01.2026	16:15	11	86	1015	Çok Bulutlu	KD 9
+Rapor	Adana	Adana Yeşiloba Hipodromu	24.01.2026	12:30	8	80	1008	Yağmurlu	8
+Rapor	İzmir	İzmir Şirinyer Hipodromu	23.01.2026	17:28	13	88	1006	Çok Bulutlu	5 km/s G
+Rapor	Bursa	Bursa Osmangazi Hipodromu	23.01.2026	12:30	10	75	1007	Hafif Sağanak Yağışlı	Güneyden 2 km/sa
+Rapor	Antalya	Antalya Hipodromu	22.01.2026	17:00	8	99	976	Sağanak Yağışlı	13km/sa Kuzey Doğudan
+Rapor	İzmir	İzmir Şirinyer Hipodromu	22.01.2026	13:25	11	94	1006	Çok Bulutlu	7 km/sa B
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	21.01.2026	13:00	7	49	1023	Çok Bulutlu	KD 18
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	21.01.2026	16:04	8	31	1028	Açık	KUZEYBATIDAN 8 KM
+Rapor	Antalya	Antalya Hipodromu	20.01.2026	17:00	12	29	986	Açık	0
+Rapor	Adana	Adana Yeşiloba Hipodromu	20.01.2026	13:00	12	27	1008	Açık	5
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	19.01.2026	17:12	3	40	1017	Açık	BATIDAN 17 KM
+Rapor	Bursa	Bursa Osmangazi Hipodromu	19.01.2026	12:00	4	86	1032	Çok Bulutlu	Kuzeyden 1 km/sa
+Rapor	Adana	Adana Yeşiloba Hipodromu	18.01.2026	16:15	13	22	1008	Açık	15
+Rapor	İzmir	İzmir Şirinyer Hipodromu	18.01.2026	13:00	8	46	1025	Açık	16 km/sa K
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	17.01.2026	17:34	4	91	1029	Hafif Sağanak Yağışlı	K 26
+Rapor	Adana	Adana Yeşiloba Hipodromu	17.01.2026	13:00	13	55	1008	Parçalı Bulutlu	8
+Rapor	Antalya	Antalya Hipodromu	16.01.2026	13:00	13	48	984	Parçalı Bulutlu	0
+Rapor	İzmir	İzmir Şirinyer Hipodromu	16.01.2026	17:30	13	66	1021	Çok Bulutlu	6 km/sa K
+Rapor	Antalya	Antalya Hipodromu	15.01.2026	15:45	14	44	984	Açık	3 km/sa Doğudan
+Rapor	İzmir	İzmir Şirinyer Hipodromu	15.01.2026	13:55	11	61	1024	Çok Bulutlu	5 km/sa G
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	14.01.2026	13:32	8	67	1025	Çok Bulutlu	KB 8
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	14.01.2026	16:17	7	40	1017	Parçalı Bulutlu	KUZEYDEN 9 KM
+Rapor	Antalya	Antalya Hipodromu	13.01.2026	17:30	7	38	979	Açık	27 Km /sa Batıdan
+Rapor	Adana	Adana Yeşiloba Hipodromu	13.01.2026	13:30	12	46	1008	Çok Bulutlu	6
+Rapor	Adana	Adana Yeşiloba Hipodromu	12.01.2026	15:45	11	100	1008	Yağmurlu	6
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	12.01.2026	17:05	6	97	1011	Yağmurlu	DOĞUDAN 6 KM
+Rapor	Bursa	Bursa Osmangazi Hipodromu	12.01.2026	12:30	4	78	1014	Çok Bulutlu	KUZEYDEN 18 KM/S
+Rapor	Adana	Adana Yeşiloba Hipodromu	11.01.2026	16:15	10	97	1008	Yağmurlu	8
+Rapor	İzmir	İzmir Şirinyer Hipodromu	11.01.2026	13:00	12	90	1004	Çok Bulutlu	6 km/sa D
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	10.01.2026	16:15	15	68	1000	Çok Bulutlu	G 43
+Rapor	Adana	Adana Yeşiloba Hipodromu	10.01.2026	13:00	14	35	1008	Açık	3
+Rapor	İzmir	İzmir Şirinyer Hipodromu	09.01.2026	17:00	10	51	1014	Çok Bulutlu	7 km/sa B
+Rapor	Bursa	Bursa Osmangazi Hipodromu	09.01.2026	12:30	4	56	1011	Açık	GÜNEYDEN 10 KM/S
+Rapor	Antalya	Antalya Hipodromu	08.01.2026	15:45	14	78	972	Hafif Sağanak Yağışlı	23 km/sa Güney doğudan
+Rapor	İzmir	İzmir Şirinyer Hipodromu	08.01.2026	13:58	15	67	1005	Yağmurlu	16 km/sa GB
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	07.01.2026	13:00	16	68	1014	Çok Bulutlu	15 km/sa güneyden
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	07.01.2026	17:00	8	49	1027	Parçalı Bulutlu	KUZEYDEN 3 KM
+Rapor	Antalya	Antalya Hipodromu	06.01.2026	17:00	15	70	983	Parçalı Bulutlu	0
+Rapor	Adana	Adana Yeşiloba Hipodromu	06.01.2026	12:30	17	30	1008	Açık	9
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	05.01.2026	16:36	5	47	1029	Az Bulutlu	KUZEYDEN 5 KM
+Rapor	Bursa	Bursa Osmangazi Hipodromu	05.01.2026	12:30	17	50	1012	Çok Bulutlu	GÜNEYDEN 10 KM/S
+Rapor	Adana	Adana Yeşiloba Hipodromu	04.01.2026	16:15	14	52	1008	Çok Bulutlu	9
+Rapor	İzmir	İzmir Şirinyer Hipodromu	04.01.2026	13:00	15	73	1021	Çok Bulutlu	20 km/sa
+Rapor	İstanbul	İstanbul Veliefendi Hipodromu	03.01.2026	16:17	13	66	1012	Çok Bulutlu	GB 35
+Rapor	Adana	Adana Yeşiloba Hipodromu	03.01.2026	13:15	8	42	1008	Çok Bulutlu	10
+Rapor	Şanlıurfa	Şanlıurfa Hipodromu	03.01.2026	10:33	2	50	1032	Açık	BATIDAN 4 KM
+Rapor	Antalya	Antalya Hipodromu	02.01.2026	13:30	10	22	984	Açık	5 km/sa Kuzey Doğu
+Rapor	İzmir	İzmir Şirinyer Hipodromu	02.01.2026	17:30	6	39	1023	Çok Bulutlu	9 km/sa
+Rapor	Antalya	Antalya Hipodromu	01.01.2026	16:15	6	35	976	Açık	26 km/sa Kuzey Batıdan
+Rapor	İzmir	İzmir Şirinyer Hipodromu	01.01.2026	14:00	3	45	1020	Parçalı Bulutlu	12 km/sa

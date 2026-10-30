@@ -1,0 +1,422 @@
+2026-07-09 17:53:23,807 - INFO     - 'config_v3.ini' oluşturuldu.
+2026-07-09 17:53:23,869 - INFO     - 📂 Program: 1 │ Sonuç: 2872
+2026-07-09 17:53:24,077 - INFO     - 💡 İlk çalıştırma, profiller oluşturuluyor...
+2026-07-09 17:53:24,124 - INFO     - 📊 2872 dosyadan profil oluşturuluyor...
+2026-07-09 22:44:45,322 - ERROR    - HATA: [WinError 10054] Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı
+2026-07-09 22:44:45,513 - ERROR    - Traceback (most recent call last):
+  File "C:\Users\volka\AppData\Local\Programs\Python\Python311\Lib\site-packages\tqdm\std.py", line 1191, in __iter__
+    self.update(n - last_print_n)
+  File "C:\Users\volka\AppData\Local\Programs\Python\Python311\Lib\site-packages\tqdm\std.py", line 1242, in update
+    self.refresh(lock_args=self.lock_args)
+  File "C:\Users\volka\AppData\Local\Programs\Python\Python311\Lib\site-packages\tqdm\std.py", line 1347, in refresh
+    self.display()
+  File "C:\Users\volka\AppData\Local\Programs\Python\Python311\Lib\site-packages\tqdm\std.py", line 1495, in display
+    self.sp(self.__str__() if msg is None else msg)
+  File "C:\Users\volka\AppData\Local\Programs\Python\Python311\Lib\site-packages\tqdm\std.py", line 459, in print_status
+    fp_write('\r' + s + (' ' * max(last_len[0] - len_s, 0)))
+  File "C:\Users\volka\AppData\Local\Programs\Python\Python311\Lib\site-packages\tqdm\std.py", line 452, in fp_write
+    fp.write(str(s))
+  File "C:\Users\volka\AppData\Local\Programs\Python\Python311\Lib\site-packages\tqdm\utils.py", line 196, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\volka\AppData\Local\Programs\Python\Python311\Lib\idlelib\run.py", line 466, in write
+    return self.shell.write(s, self.tags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\volka\AppData\Local\Programs\Python\Python311\Lib\idlelib\rpc.py", line 607, in __call__
+    value = self.sockio.remotecall(self.oid, self.name, args, kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\volka\AppData\Local\Programs\Python\Python311\Lib\idlelib\rpc.py", line 219, in remotecall
+    return self.asyncreturn(seq)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\volka\AppData\Local\Programs\Python\Python311\Lib\idlelib\rpc.py", line 248, in asyncreturn
+    response = self.getresponse(seq, wait=0.05)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\volka\AppData\Local\Programs\Python\Python311\Lib\idlelib\rpc.py", line 291, in getresponse
+    response = self._getresponse(myseq, wait)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\volka\AppData\Local\Programs\Python\Python311\Lib\idlelib\rpc.py", line 319, in _getresponse
+    cvar.wait()
+  File "C:\Users\volka\AppData\Local\Programs\Python\Python311\Lib\threading.py", line 320, in wait
+    waiter.acquire()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:/Users/volka/AppData/Local/Programs/Python/Python311/at_yarisi/yeni.py", line 1179, in <module>
+    main()
+  File "C:/Users/volka/AppData/Local/Programs/Python/Python311/at_yarisi/yeni.py", line 1165, in main
+    motor.build(result_files)
+  File "C:/Users/volka/AppData/Local/Programs/Python/Python311/at_yarisi/yeni.py", line 516, in build
+    for file in tqdm(result_files, desc="Profil oluşturuluyor"):
+  File "C:\Users\volka\AppData\Local\Programs\Python\Python311\Lib\site-packages\tqdm\std.py", line 1196, in __iter__
+    self.close()
+  File "C:\Users\volka\AppData\Local\Programs\Python\Python311\Lib\site-packages\tqdm\std.py", line 1290, in close
+    fp_write('')
+  File "C:\Users\volka\AppData\Local\Programs\Python\Python311\Lib\site-packages\tqdm\std.py", line 1287, in fp_write
+    self.fp.write(str(s))
+  File "C:\Users\volka\AppData\Local\Programs\Python\Python311\Lib\site-packages\tqdm\utils.py", line 196, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\volka\AppData\Local\Programs\Python\Python311\Lib\idlelib\run.py", line 466, in write
+    return self.shell.write(s, self.tags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\volka\AppData\Local\Programs\Python\Python311\Lib\idlelib\rpc.py", line 607, in __call__
+    value = self.sockio.remotecall(self.oid, self.name, args, kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\volka\AppData\Local\Programs\Python\Python311\Lib\idlelib\rpc.py", line 218, in remotecall
+    seq = self.asynccall(oid, methodname, args, kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\volka\AppData\Local\Programs\Python\Python311\Lib\idlelib\rpc.py", line 233, in asynccall
+    self.putmessage((seq, request))
+  File "C:\Users\volka\AppData\Local\Programs\Python\Python311\Lib\idlelib\rpc.py", line 343, in putmessage
+    n = self.sock.send(s[:BUFSIZE])
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı
+
+2026-07-10 10:22:38,406 - INFO     - 📂 Program: 1 │ Sonuç: 2874
+2026-07-10 10:22:38,739 - INFO     - 💡 İlk çalıştırma, profiller oluşturuluyor...
+2026-07-10 10:22:38,787 - INFO     - 📊 2874 dosyadan profil oluşturuluyor...
+2026-07-10 10:42:54,245 - INFO     - 📂 Program: 1 │ Sonuç: 2874
+2026-07-10 10:42:54,695 - INFO     - ⚡ Tüm sonuçlar tek seferde okunuyor...
+2026-07-10 10:42:54,984 - INFO     - ⚡ 2874 dosya toplu okunuyor...
+2026-07-10 10:55:43,533 - INFO     - Durduruldu.
+2026-07-10 10:58:58,765 - INFO     - 📂 Program:1 │ Sonuç:2874
+2026-07-10 10:58:59,036 - INFO     - ⚡ 2874 dosya PARALEL okunuyor (8 çekirdek)...
+2026-07-10 11:04:44,023 - INFO     - Durduruldu.
+2026-07-10 11:05:02,194 - INFO     - 📂 Program:1 │ Sonuç:2874
+2026-07-10 11:05:02,707 - INFO     - ⚡ 2874 dosya batch paralel okunuyor...
+2026-07-10 11:05:03,056 - INFO     -    15 batch × ~200 dosya │ 4 çekirdek
+2026-07-10 11:05:09,943 - INFO     -    234,338 satır okundu, 0 hata
+2026-07-10 11:05:11,778 - INFO     - 🏆 Kazananlar belirleniyor...
+2026-07-10 11:05:12,304 - INFO     - ✅ 228,648 kayıt │ 23,433 kazanan │ 49,681 at
+2026-07-10 11:05:12,536 - INFO     - 📊 Profiller oluşturuluyor (vektörize)...
+2026-07-10 11:05:12,790 - INFO     -    Genel: 49,681 at
+2026-07-10 11:05:18,224 - INFO     -    Son 6 form...
+2026-07-10 11:05:22,235 - INFO     -    Dict oluşturuluyor (49,681 at)...
+2026-07-10 11:10:14,848 - INFO     - Durduruldu.
+2026-07-10 11:10:39,245 - INFO     - 📂 Program:1 │ Sonuç:2874
+2026-07-10 11:10:39,466 - INFO     - ⚡ 2874 dosya okunuyor (4 çekirdek)...
+2026-07-10 11:10:39,515 - INFO     -    10 batch × ~300 dosya
+2026-07-10 11:10:51,795 - INFO     - 🏆 Kazananlar belirleniyor...
+2026-07-10 11:10:52,160 - INFO     - ✅ 228,648 kayıt │ 23,433 kazanan │ 49,681 at
+2026-07-10 11:10:52,255 - INFO     - 📊 Profiller oluşturuluyor (SIFIR DÖNGÜ)...
+2026-07-10 11:10:52,353 - INFO     -    49,681 at │ hesaplanıyor...
+2026-07-10 11:10:53,301 - INFO     -    Son 6 form (vektörize)...
+2026-07-10 11:10:55,645 - INFO     -    Birleştiriliyor...
+2026-07-10 11:10:55,865 - INFO     -    Jokey uyum dict...
+2026-07-10 11:11:00,232 - INFO     -    ✅ Profil dict (to_dict - sıfır döngü)...
+2026-07-10 11:11:03,691 - INFO     -    Jokey istatistikleri...
+2026-07-10 11:11:04,150 - INFO     - ✅ 49,681 at │ 836 jokey │ 1,194 antrenör
+2026-07-10 11:11:04,791 - INFO     - 💾 Kaydedildi → at_profilleri.pkl
+2026-07-10 11:11:04,865 - INFO     - 📈 49,681 at │ 836 jokey │ 1,194 antrenör
+2026-07-10 11:25:32,762 - INFO     - 📂 Program:1 │ Sonuç:2874
+2026-07-10 11:25:33,530 - INFO     - ♻️  Önbellekten: 49,681 at
+2026-07-10 11:25:33,760 - INFO     - ♻️  Önbellek geçerli!
+2026-07-10 11:25:33,794 - INFO     - 📈 49,681 at │ 836 jokey │ 1,194 antrenör
+2026-07-10 21:59:51,418 - INFO     - 📂 Program:1 │ Sonuç:2874
+2026-07-10 21:59:52,256 - INFO     - ♻️  Önbellekten: 49,681 at
+2026-07-10 21:59:52,604 - INFO     - ♻️  Önbellek geçerli!
+2026-07-10 21:59:52,668 - INFO     - 📈 49,681 at │ 836 jokey │ 1,194 antrenör
+2026-07-10 22:13:23,649 - INFO     - 📂 Program:1 │ Sonuç:2874
+2026-07-10 22:13:24,337 - INFO     - ♻️  Önbellekten: 49,681 at
+2026-07-10 22:13:24,582 - INFO     - ♻️  Önbellek geçerli!
+2026-07-10 22:13:24,646 - INFO     - 📈 49,681 at │ 836 jokey │ 1,194 antrenör
+2026-07-11 14:45:02,026 - INFO     - 📂 Program:1 │ Sonuç:2876
+2026-07-11 14:45:02,787 - INFO     - ♻️  Önbellekten: 49,681 at
+2026-07-11 14:45:03,073 - INFO     - ⚡ 2876 dosya okunuyor (4 çekirdek)...
+2026-07-11 14:45:03,089 - INFO     -    10 batch × ~300 dosya
+2026-07-11 14:45:37,861 - INFO     - 🏆 Kazananlar belirleniyor...
+2026-07-11 14:45:38,214 - INFO     - ✅ 228,821 kayıt │ 23,451 kazanan │ 49,711 at
+2026-07-11 14:45:38,275 - INFO     - 📊 Profiller oluşturuluyor...
+2026-07-11 14:45:38,372 - INFO     -    49,711 at
+2026-07-11 14:45:39,290 - INFO     -    Son 6 form...
+2026-07-11 14:45:41,575 - INFO     -    Birleştiriliyor...
+2026-07-11 14:45:46,139 - INFO     -    Profil dict (49,711 at)...
+2026-07-11 14:45:48,960 - INFO     -    Jokey istatistikleri...
+2026-07-11 14:45:49,469 - INFO     - ✅ 49,711 at │ 836 jokey │ 1,194 antrenör
+2026-07-11 14:45:50,059 - INFO     - 💾 Kaydedildi → at_profilleri.pkl
+2026-07-11 14:45:50,106 - INFO     - 📈 49,711 at │ 836 jokey │ 1,194 antrenör
+2026-07-11 15:23:00,441 - INFO     - 📂 Program:1 │ Sonuç:2876
+2026-07-11 15:23:00,467 - INFO     - ✅ jokey.txt: 1148 jokey yüklendi
+2026-07-11 15:23:00,485 - INFO     -    MARGAUX COLLOMB           Koşu:     2 1.:100.0% İlk3:100.0%
+2026-07-11 15:23:00,495 - INFO     -    TIM SPRAKE                Koşu:     1 1.:100.0% İlk3:100.0%
+2026-07-11 15:23:00,499 - INFO     -    NEJDET TUNALI             Koşu:     1 1.:100.0% İlk3:100.0%
+2026-07-11 15:23:00,507 - INFO     -    EGE RAMAZAN KURU          Koşu:     1 1.:100.0% İlk3:100.0%
+2026-07-11 15:23:00,515 - INFO     -    MARIA MONETA              Koşu:     1 1.:100.0% İlk3:100.0%
+2026-07-11 15:23:01,147 - INFO     - ♻️  Önbellekten: 49,711 at
+2026-07-11 15:23:01,331 - INFO     - ♻️  Önbellek geçerli!
+2026-07-11 15:23:01,338 - INFO     - 📈 49,711 at │ 836 jokey │ 1,194 antrenör │ 1,148 kariyer kaydı
+2026-07-11 18:48:29,678 - INFO     - 📂 Program:1 │ Sonuç:2876
+2026-07-11 18:48:29,697 - INFO     - ✅ jokey.txt: 1148 jokey
+2026-07-11 18:48:29,725 - INFO     - ✅ at.txt: 399 at
+2026-07-11 18:48:29,725 - WARNING  - ⚠️ Dosya bulunamadı: antrenor.txt
+2026-07-11 18:48:29,757 - INFO     - ✅ idman.txt: 350 at idman verisi
+2026-07-11 18:48:30,423 - INFO     - ♻️  Önbellekten: 49,711 at
+2026-07-11 18:48:30,598 - INFO     - ♻️  Önbellek geçerli!
+2026-07-11 18:48:30,598 - INFO     - 📈 49,711 at │ 836 jokey │ 1,194 antrenör │ 1,148 jokey kariyer │ 399 at kariyer │ 0 ant kariyer │ 350 idman
+2026-07-11 19:02:05,220 - INFO     - 📂 Program:1 │ Sonuç:2876
+2026-07-11 19:02:05,236 - INFO     - ✅ jokey.txt: 1148 jokey
+2026-07-11 19:02:05,251 - INFO     - ✅ at.txt: 399 at
+2026-07-11 19:02:05,274 - INFO     - ✅ antrenor.txt: 594 antrenör
+2026-07-11 19:02:05,299 - INFO     - ✅ idman.txt: 350 at idman verisi
+2026-07-11 19:02:05,920 - INFO     - ♻️  Önbellekten: 49,711 at
+2026-07-11 19:02:06,095 - INFO     - ♻️  Önbellek geçerli!
+2026-07-11 19:02:06,111 - INFO     - 📈 49,711 at │ 836 jokey │ 1,194 antrenör │ 1,148 jokey kariyer │ 399 at kariyer │ 594 ant kariyer │ 350 idman
+2026-07-11 19:35:51,373 - INFO     - 📂 Program:1 │ Sonuç:2876
+2026-07-11 19:35:51,391 - INFO     - ✅ jokey.txt: 1148 jokey
+2026-07-11 19:35:51,405 - INFO     - ✅ at.txt: 399 at
+2026-07-11 19:35:51,405 - INFO     - ✅ antrenor.txt: 594 antrenör
+2026-07-11 19:35:51,421 - INFO     - ✅ idman.txt: 350 at
+2026-07-11 19:35:51,440 - INFO     -    Son 3 günde 350 at idman yaptı:
+2026-07-11 19:35:51,441 - INFO     -    MUKATOVİÇ            Kenter                      Sk:0.55
+2026-07-11 19:35:51,441 - INFO     -    ŞAHİN MELTEM         Kenter                      Sk:0.55
+2026-07-11 19:35:51,450 - INFO     -    KAPTANPAŞALI         Kenter                      Sk:0.55
+2026-07-11 19:35:51,453 - INFO     -    KING GÖKÇE           Sprint   R   400m@13.4m/s   Sk:1.00
+2026-07-11 19:35:51,459 - INFO     -    ADI YAŞASIN          Sprint   R   400m@14.3m/s   Sk:1.00
+2026-07-11 19:35:52,104 - INFO     - ♻️  Önbellekten: 49,711 at
+2026-07-11 19:35:52,294 - INFO     - ♻️  Önbellek geçerli!
+2026-07-11 19:35:52,345 - INFO     - 📈 49,711 at │ 836 jokey │ 1,194 antrenör │ 1,148 jokey.txt │ 399 at.txt │ 594 antrenor.txt │ 350 idman.txt
+2026-07-12 11:24:41,682 - INFO     - 📂 Program:1 │ Sonuç:2879
+2026-07-12 11:24:41,708 - INFO     - ✅ jokey.txt: 1148 jokey
+2026-07-12 11:24:41,730 - INFO     - ✅ at.txt: 399 at
+2026-07-12 11:24:41,750 - INFO     - ✅ antrenor.txt: 594 antrenör
+2026-07-12 11:24:41,765 - INFO     - ✅ idman.txt: 350 at
+2026-07-12 11:24:41,779 - INFO     -    Son 3 günde 350 at idman yaptı:
+2026-07-12 11:24:41,779 - INFO     -    MUKATOVİÇ            Kenter                      Sk:0.50
+2026-07-12 11:24:41,779 - INFO     -    ŞAHİN MELTEM         Kenter                      Sk:0.50
+2026-07-12 11:24:41,779 - INFO     -    KAPTANPAŞALI         Kenter                      Sk:0.50
+2026-07-12 11:24:41,793 - INFO     -    KING GÖKÇE           Sprint   R   400m@13.4m/s   Sk:0.97
+2026-07-12 11:24:41,799 - INFO     -    ADI YAŞASIN          Sprint   R   400m@14.3m/s   Sk:0.97
+2026-07-12 11:24:42,568 - INFO     - ♻️  Önbellekten: 49,711 at
+2026-07-12 11:24:42,837 - INFO     - ⚡ 2879 dosya okunuyor (4 çekirdek)...
+2026-07-12 11:24:42,855 - INFO     -    10 batch × ~300 dosya
+2026-07-12 11:25:16,047 - INFO     - 🏆 Kazananlar belirleniyor...
+2026-07-12 11:25:16,461 - INFO     - ✅ 229,041 kayıt │ 23,473 kazanan │ 49,735 at
+2026-07-12 11:25:16,541 - INFO     - 📊 Profiller oluşturuluyor...
+2026-07-12 11:25:16,637 - INFO     -    49,735 at
+2026-07-12 11:25:17,571 - INFO     -    Son 6 form...
+2026-07-12 11:25:19,862 - INFO     -    Birleştiriliyor...
+2026-07-12 11:25:24,433 - INFO     -    Profil dict (49,735 at)...
+2026-07-12 11:25:27,221 - INFO     -    Jokey/Antrenör istatistikleri...
+2026-07-12 11:25:27,997 - INFO     - ✅ 49,735 at │ 837 jokey │ 1,194 antrenör
+2026-07-12 11:25:28,663 - INFO     - 💾 Kaydedildi → at_profilleri.pkl
+2026-07-12 11:25:28,774 - INFO     - 📈 49,735 at │ 837 jokey │ 1,194 antrenör │ 1,148 jokey.txt │ 399 at.txt │ 594 antrenor.txt │ 350 idman.txt
+2026-07-12 15:12:20,109 - INFO     - 📂 Program:1 │ Sonuç:2879
+2026-07-12 15:12:20,140 - INFO     - ✅ jokey.txt: 1148 jokey
+2026-07-12 15:12:20,165 - INFO     - ✅ at.txt: 399 at
+2026-07-12 15:12:20,188 - INFO     - ✅ antrenor.txt: 594 antrenör
+2026-07-12 15:12:20,216 - INFO     - ✅ idman.txt: 350 at
+2026-07-12 15:12:20,220 - INFO     -    Son 3 günde 350 at idman yaptı:
+2026-07-12 15:12:20,220 - INFO     -    MUKATOVİÇ            Kenter                      Sk:0.50
+2026-07-12 15:12:20,220 - INFO     -    ŞAHİN MELTEM         Kenter                      Sk:0.50
+2026-07-12 15:12:20,236 - INFO     -    KAPTANPAŞALI         Kenter                      Sk:0.50
+2026-07-12 15:12:20,236 - INFO     -    KING GÖKÇE           Sprint   R   400m@13.4m/s   Sk:0.97
+2026-07-12 15:12:20,250 - INFO     -    ADI YAŞASIN          Sprint   R   400m@14.3m/s   Sk:0.97
+2026-07-12 15:12:20,989 - INFO     - ♻️  Önbellekten: 49,735 at
+2026-07-12 15:12:21,200 - INFO     - ♻️  Önbellek geçerli!
+2026-07-12 15:12:21,232 - INFO     - 📈 49,735 at │ 837 jokey │ 1,194 antrenör │ 1,148 jokey.txt │ 399 at.txt │ 594 antrenor.txt │ 350 idman.txt
+2026-07-12 20:21:57,660 - INFO     - 📂 Program:1 │ Sonuç:2880
+2026-07-12 20:21:57,673 - INFO     - ✅ jokey.txt: 1148 jokey
+2026-07-12 20:21:57,673 - INFO     - ✅ at.txt: 399 at
+2026-07-12 20:21:57,689 - INFO     - ✅ antrenor.txt: 594 antrenör
+2026-07-12 20:21:57,705 - INFO     - ✅ idman.txt: 350 at
+2026-07-12 20:21:57,715 - INFO     -    Son 3 günde 350 at idman yaptı:
+2026-07-12 20:21:57,721 - INFO     -    MUKATOVİÇ            Kenter                      Sk:0.50
+2026-07-12 20:21:57,721 - INFO     -    ŞAHİN MELTEM         Kenter                      Sk:0.50
+2026-07-12 20:21:57,721 - INFO     -    KAPTANPAŞALI         Kenter                      Sk:0.50
+2026-07-12 20:21:57,736 - INFO     -    KING GÖKÇE           Sprint   R   400m@13.4m/s   Sk:0.97
+2026-07-12 20:21:57,736 - INFO     -    ADI YAŞASIN          Sprint   R   400m@14.3m/s   Sk:0.97
+2026-07-12 20:21:58,443 - INFO     - ♻️  Önbellekten: 49,735 at
+2026-07-12 20:21:58,660 - INFO     - ⚡ 2880 dosya okunuyor (4 çekirdek)...
+2026-07-12 20:21:58,672 - INFO     -    10 batch × ~300 dosya
+2026-07-12 20:22:34,107 - INFO     - 🏆 Kazananlar belirleniyor...
+2026-07-12 20:22:34,456 - INFO     - ✅ 229,135 kayıt │ 23,482 kazanan │ 49,756 at
+2026-07-12 20:22:34,535 - INFO     - 📊 Profiller oluşturuluyor...
+2026-07-12 20:22:34,679 - INFO     -    49,756 at
+2026-07-12 20:22:35,632 - INFO     -    Son 6 form...
+2026-07-12 20:22:37,942 - INFO     -    Birleştiriliyor...
+2026-07-12 20:22:42,612 - INFO     -    Profil dict (49,756 at)...
+2026-07-12 20:22:44,453 - INFO     -    Jokey/Antrenör istatistikleri...
+2026-07-12 20:22:45,329 - INFO     - ✅ 49,756 at │ 837 jokey │ 1,194 antrenör
+2026-07-12 20:22:46,196 - INFO     - 💾 Kaydedildi → at_profilleri.pkl
+2026-07-12 20:22:46,293 - INFO     - 📈 49,756 at │ 837 jokey │ 1,194 antrenör │ 1,148 jokey.txt │ 399 at.txt │ 594 antrenor.txt │ 350 idman.txt
+2026-07-13 11:00:17,694 - INFO     - 📂 Program:1 │ Sonuç:2881
+2026-07-13 11:00:17,722 - INFO     - ✅ jokey.txt: 1148 jokey
+2026-07-13 11:00:17,742 - INFO     - ✅ at.txt: 399 at
+2026-07-13 11:00:17,757 - INFO     - ✅ antrenor.txt: 594 antrenör
+2026-07-13 11:00:17,789 - INFO     - ✅ idman.txt: 486 at
+2026-07-13 11:00:17,789 - INFO     -    Son 3 günde 486 at idman yaptı:
+2026-07-13 11:00:17,789 - INFO     -    CRIMSON POWER        Kenter                      Sk:0.55
+2026-07-13 11:00:17,805 - INFO     -    SLUICIFER            Kenter                      Sk:0.55
+2026-07-13 11:00:17,805 - INFO     -    GIPSY THUNDER        Kenter                      Sk:0.55
+2026-07-13 11:00:17,805 - INFO     -    GÖHERBEYİ            Sprint   R   400m@13.3m/s   Sk:1.00
+2026-07-13 11:00:17,818 - INFO     -    ATOM CEMİL           Galop    R   400m@15.2m/s   Sk:0.94
+2026-07-13 11:00:18,589 - INFO     - ♻️  Önbellekten: 49,756 at
+2026-07-13 11:00:18,865 - INFO     - ⚡ 2881 dosya okunuyor (4 çekirdek)...
+2026-07-13 11:00:18,881 - INFO     -    10 batch × ~300 dosya
+2026-07-13 11:00:52,193 - INFO     - 🏆 Kazananlar belirleniyor...
+2026-07-13 11:00:52,557 - INFO     - ✅ 229,213 kayıt │ 23,490 kazanan │ 49,768 at
+2026-07-13 11:00:52,637 - INFO     - 📊 Profiller oluşturuluyor...
+2026-07-13 11:00:52,733 - INFO     -    49,768 at
+2026-07-13 11:00:53,656 - INFO     -    Son 6 form...
+2026-07-13 11:00:55,926 - INFO     -    Birleştiriliyor...
+2026-07-13 11:01:00,279 - INFO     -    Profil dict (49,768 at)...
+2026-07-13 11:01:03,467 - INFO     -    Jokey/Antrenör istatistikleri...
+2026-07-13 11:01:04,290 - INFO     - ✅ 49,768 at │ 837 jokey │ 1,194 antrenör
+2026-07-13 11:01:04,939 - INFO     - 💾 Kaydedildi → at_profilleri.pkl
+2026-07-13 11:01:05,082 - INFO     - 📈 49,768 at │ 837 jokey │ 1,194 antrenör │ 1,148 jokey.txt │ 399 at.txt │ 594 antrenor.txt │ 486 idman.txt
+2026-07-14 11:50:33,424 - INFO     - 📂 Program:1 │ Sonuç:2883
+2026-07-14 11:50:33,666 - INFO     - ✅ jokey.txt: 1148 jokey
+2026-07-14 11:50:33,698 - INFO     - ✅ at.txt: 399 at
+2026-07-14 11:50:33,714 - INFO     - ✅ antrenor.txt: 594 antrenör
+2026-07-14 11:50:33,745 - INFO     - ✅ idman.txt: 486 at
+2026-07-14 11:50:33,745 - INFO     -    Son 3 günde 486 at idman yaptı:
+2026-07-14 11:50:33,761 - INFO     -    CRIMSON POWER        Kenter                      Sk:0.50
+2026-07-14 11:50:33,761 - INFO     -    SLUICIFER            Kenter                      Sk:0.50
+2026-07-14 11:50:33,761 - INFO     -    GIPSY THUNDER        Kenter                      Sk:0.50
+2026-07-14 11:50:33,774 - INFO     -    GÖHERBEYİ            Sprint   R   400m@13.3m/s   Sk:0.97
+2026-07-14 11:50:33,777 - INFO     -    ATOM CEMİL           Galop    R   400m@15.2m/s   Sk:0.89
+2026-07-14 11:50:34,530 - INFO     - ♻️  Önbellekten: 49,768 at
+2026-07-14 11:50:34,822 - INFO     - ⚡ 2883 dosya okunuyor (4 çekirdek)...
+2026-07-14 11:50:34,822 - INFO     -    10 batch × ~300 dosya
+2026-07-14 11:51:08,616 - INFO     - 🏆 Kazananlar belirleniyor...
+2026-07-14 11:51:08,964 - INFO     - ✅ 229,413 kayıt │ 23,508 kazanan │ 49,801 at
+2026-07-14 11:51:09,044 - INFO     - 📊 Profiller oluşturuluyor...
+2026-07-14 11:51:09,147 - INFO     -    49,801 at
+2026-07-14 11:51:10,071 - INFO     -    Son 6 form...
+2026-07-14 11:51:12,369 - INFO     -    Birleştiriliyor...
+2026-07-14 11:51:16,808 - INFO     -    Profil dict (49,801 at)...
+2026-07-14 11:51:19,204 - INFO     -    Jokey/Antrenör istatistikleri...
+2026-07-14 11:51:20,041 - INFO     - ✅ 49,801 at │ 837 jokey │ 1,194 antrenör
+2026-07-14 11:51:20,690 - INFO     - 💾 Kaydedildi → at_profilleri.pkl
+2026-07-14 11:51:20,817 - INFO     - 📈 49,801 at │ 837 jokey │ 1,194 antrenör │ 1,148 jokey.txt │ 399 at.txt │ 594 antrenor.txt │ 486 idman.txt
+2026-07-16 13:09:32,301 - INFO     - 📂 Program:1 │ Sonuç:2885
+2026-07-16 13:09:32,339 - INFO     - ✅ jokey.txt: 1148 jokey
+2026-07-16 13:09:32,348 - INFO     - ✅ at.txt: 399 at
+2026-07-16 13:09:32,380 - INFO     - ✅ antrenor.txt: 594 antrenör
+2026-07-16 13:09:32,412 - INFO     - ✅ idman.txt: 486 at
+2026-07-16 13:09:32,412 - INFO     -    Son 3 günde 88 at idman yaptı:
+2026-07-16 13:09:32,412 - INFO     -    CRIMSON POWER        Kenter                      Sk:0.47
+2026-07-16 13:09:32,428 - INFO     -    SLUICIFER            Kenter                      Sk:0.47
+2026-07-16 13:09:32,431 - INFO     -    GIPSY THUNDER        Kenter                      Sk:0.47
+2026-07-16 13:09:32,431 - INFO     -    GÖHERBEYİ            Sprint   R   400m@13.3m/s   Sk:0.94
+2026-07-16 13:09:32,443 - INFO     -    ATOM CEMİL           Galop    R   400m@15.2m/s   Sk:0.86
+2026-07-16 13:09:33,268 - INFO     - ♻️  Önbellekten: 49,801 at
+2026-07-16 13:09:33,682 - INFO     - ⚡ 2885 dosya okunuyor (4 çekirdek)...
+2026-07-16 13:09:33,714 - INFO     -    10 batch × ~300 dosya
+2026-07-16 13:10:08,308 - INFO     - 🏆 Kazananlar belirleniyor...
+2026-07-16 13:10:08,690 - INFO     - ✅ 229,608 kayıt │ 23,525 kazanan │ 49,847 at
+2026-07-16 13:10:08,763 - INFO     - 📊 Profiller oluşturuluyor...
+2026-07-16 13:10:08,871 - INFO     -    49,847 at
+2026-07-16 13:10:09,850 - INFO     -    Son 6 form...
+2026-07-16 13:10:12,210 - INFO     -    Birleştiriliyor...
+2026-07-16 13:10:16,706 - INFO     -    Profil dict (49,847 at)...
+2026-07-16 13:10:18,649 - INFO     -    Jokey/Antrenör istatistikleri...
+2026-07-16 13:10:19,491 - INFO     - ✅ 49,847 at │ 840 jokey │ 1,194 antrenör
+2026-07-16 13:10:20,236 - INFO     - 💾 Kaydedildi → at_profilleri.pkl
+2026-07-16 13:10:20,363 - INFO     - 📈 49,847 at │ 840 jokey │ 1,194 antrenör │ 1,148 jokey.txt │ 399 at.txt │ 594 antrenor.txt │ 486 idman.txt
+2026-07-17 13:45:19,121 - INFO     - 📂 Program:1 │ Sonuç:2887
+2026-07-17 13:45:19,147 - INFO     - ✅ jokey.txt: 1148 jokey
+2026-07-17 13:45:19,157 - INFO     - ✅ at.txt: 399 at
+2026-07-17 13:45:19,189 - INFO     - ✅ antrenor.txt: 594 antrenör
+2026-07-17 13:45:19,231 - INFO     - ✅ idman.txt: 486 at
+2026-07-17 13:45:20,117 - INFO     - ♻️  Önbellekten: 49,847 at
+2026-07-17 13:45:20,509 - INFO     - ⚡ 2887 dosya okunuyor (4 çekirdek)...
+2026-07-17 13:45:20,537 - INFO     -    10 batch × ~300 dosya
+2026-07-17 13:45:58,431 - INFO     - 🏆 Kazananlar belirleniyor...
+2026-07-17 13:45:58,843 - INFO     - ✅ 229,763 kayıt │ 23,542 kazanan │ 49,870 at
+2026-07-17 13:45:58,906 - INFO     - 📊 Profiller oluşturuluyor...
+2026-07-17 13:45:59,018 - INFO     -    49,870 at
+2026-07-17 13:46:00,040 - INFO     -    Son 6 form...
+2026-07-17 13:46:02,456 - INFO     -    Birleştiriliyor...
+2026-07-17 13:46:07,097 - INFO     -    Profil dict (49,870 at)...
+2026-07-17 13:48:46,108 - INFO     - 📂 Program:1 │ Sonuç:2887
+2026-07-17 13:48:46,123 - INFO     - ✅ jokey.txt: 1148 jokey
+2026-07-17 13:48:46,124 - INFO     - ✅ at.txt: 399 at
+2026-07-17 13:48:46,142 - INFO     - ✅ antrenor.txt: 594 antrenör
+2026-07-17 13:48:46,171 - INFO     - ✅ idman.txt: 778 at
+2026-07-17 13:48:46,171 - INFO     -    Son 3 günde 292 at idman yaptı:
+2026-07-17 13:48:46,171 - INFO     -    UÇAN TURBOCU         Galop    R   400m@14.3m/s   Sk:0.90
+2026-07-17 13:48:46,187 - INFO     -    DEMİR VARGAS         Galop    R   400m@13.4m/s   Sk:0.90
+2026-07-17 13:48:46,187 - INFO     -    CANGÜR               Galop    R   400m@14.3m/s   Sk:0.90
+2026-07-17 13:48:46,198 - INFO     -    DRAGON RUNNER        Kenter                      Sk:0.55
+2026-07-17 13:48:46,203 - INFO     -    CÖMERT TAY           Kenter                      Sk:0.55
+2026-07-17 13:48:46,883 - INFO     - ♻️  Önbellekten: 49,847 at
+2026-07-17 13:48:47,136 - INFO     - ⚡ 2887 dosya okunuyor (4 çekirdek)...
+2026-07-17 13:48:47,185 - INFO     -    10 batch × ~300 dosya
+2026-07-17 13:48:59,646 - INFO     - 🏆 Kazananlar belirleniyor...
+2026-07-17 13:49:00,038 - INFO     - ✅ 229,763 kayıt │ 23,542 kazanan │ 49,870 at
+2026-07-17 13:49:00,121 - INFO     - 📊 Profiller oluşturuluyor...
+2026-07-17 13:49:00,218 - INFO     -    49,870 at
+2026-07-17 13:49:01,195 - INFO     -    Son 6 form...
+2026-07-17 13:49:03,525 - INFO     -    Birleştiriliyor...
+2026-07-17 13:49:07,972 - INFO     -    Profil dict (49,870 at)...
+2026-07-17 13:49:10,046 - INFO     -    Jokey/Antrenör istatistikleri...
+2026-07-17 13:49:10,942 - INFO     - ✅ 49,870 at │ 840 jokey │ 1,194 antrenör
+2026-07-17 13:49:11,765 - INFO     - 💾 Kaydedildi → at_profilleri.pkl
+2026-07-17 13:49:11,876 - INFO     - 📈 49,870 at │ 840 jokey │ 1,194 antrenör │ 1,148 jokey.txt │ 399 at.txt │ 594 antrenor.txt │ 778 idman.txt
+2026-07-18 12:14:26,422 - INFO     - 📂 Program:1 │ Sonuç:2889
+2026-07-18 12:14:26,452 - INFO     - ✅ jokey.txt: 1148 jokey
+2026-07-18 12:14:26,473 - INFO     - ✅ at.txt: 399 at
+2026-07-18 12:14:26,492 - INFO     - ✅ antrenor.txt: 594 antrenör
+2026-07-18 12:14:26,532 - INFO     - ✅ idman.txt: 991 at
+2026-07-18 12:14:26,532 - INFO     -    Son 3 günde 505 at idman yaptı:
+2026-07-18 12:14:26,532 - INFO     -    FREYDIS              Kenter                      Sk:0.55
+2026-07-18 12:14:26,543 - INFO     -    KAFKASYA GÜLÜ        Sprint   R   400m@15.0m/s   Sk:1.00
+2026-07-18 12:14:26,547 - INFO     -    AVLA GEL             Galop    R   400m@14.0m/s   Sk:0.90
+2026-07-18 12:14:26,547 - INFO     -    RÜZGAR AGAH          Galop    ÇR  400m@15.3m/s   Sk:0.91
+2026-07-18 12:14:26,547 - INFO     -    PINAR                Galop    R   400m@15.9m/s   Sk:0.98
+2026-07-18 12:14:27,323 - INFO     - ♻️  Önbellekten: 49,870 at
+2026-07-18 12:14:27,609 - INFO     - ⚡ 2889 dosya okunuyor (4 çekirdek)...
+2026-07-18 12:14:27,609 - INFO     -    10 batch × ~300 dosya
+2026-07-18 12:15:00,503 - INFO     - 🏆 Kazananlar belirleniyor...
+2026-07-18 12:15:00,868 - INFO     - ✅ 229,950 kayıt │ 23,562 kazanan │ 49,900 at
+2026-07-18 12:15:00,932 - INFO     - 📊 Profiller oluşturuluyor...
+2026-07-18 12:15:01,026 - INFO     -    49,900 at
+2026-07-18 12:15:01,949 - INFO     -    Son 6 form...
+2026-07-18 12:15:04,210 - INFO     -    Birleştiriliyor...
+2026-07-18 12:15:08,543 - INFO     -    Profil dict (49,900 at)...
+2026-07-18 12:15:11,792 - INFO     -    Jokey/Antrenör istatistikleri...
+2026-07-18 12:15:12,614 - INFO     - ✅ 49,900 at │ 840 jokey │ 1,194 antrenör
+2026-07-18 12:15:13,295 - INFO     - 💾 Kaydedildi → at_profilleri.pkl
+2026-07-18 12:15:13,423 - INFO     - 📈 49,900 at │ 840 jokey │ 1,194 antrenör │ 1,148 jokey.txt │ 399 at.txt │ 594 antrenor.txt │ 991 idman.txt
+2026-07-19 12:37:45,781 - INFO     - 📂 Program:1 │ Sonuç:2892
+2026-07-19 12:37:45,850 - INFO     - ✅ jokey.txt: 1148 jokey
+2026-07-19 12:37:45,873 - INFO     - ✅ at.txt: 399 at
+2026-07-19 12:37:45,892 - INFO     - ✅ antrenor.txt: 594 antrenör
+2026-07-19 12:37:45,939 - INFO     - ✅ idman.txt: 991 at
+2026-07-19 12:37:45,949 - INFO     -    Son 3 günde 505 at idman yaptı:
+2026-07-19 12:37:45,949 - INFO     -    FREYDIS              Kenter                      Sk:0.50
+2026-07-19 12:37:45,955 - INFO     -    KAFKASYA GÜLÜ        Sprint   R   400m@15.0m/s   Sk:0.97
+2026-07-19 12:37:45,955 - INFO     -    AVLA GEL             Galop    R   400m@14.0m/s   Sk:0.85
+2026-07-19 12:37:45,955 - INFO     -    RÜZGAR AGAH          Galop    ÇR  400m@15.3m/s   Sk:0.86
+2026-07-19 12:37:45,971 - INFO     -    PINAR                Galop    R   400m@15.9m/s   Sk:0.93
+2026-07-19 12:37:46,776 - INFO     - ♻️  Önbellekten: 49,900 at
+2026-07-19 12:37:47,151 - INFO     - ⚡ 2892 dosya okunuyor (4 çekirdek)...
+2026-07-19 12:37:47,154 - INFO     -    10 batch × ~300 dosya
+2026-07-19 12:38:28,300 - INFO     - 🏆 Kazananlar belirleniyor...
+2026-07-19 12:38:28,729 - INFO     - ✅ 230,168 kayıt │ 23,585 kazanan │ 49,972 at
+2026-07-19 12:38:28,792 - INFO     - 📊 Profiller oluşturuluyor...
+2026-07-19 12:38:28,966 - INFO     -    49,972 at
+2026-07-19 12:38:29,965 - INFO     -    Son 6 form...
+2026-07-19 12:38:32,431 - INFO     -    Birleştiriliyor...
+2026-07-19 12:38:37,214 - INFO     -    Profil dict (49,972 at)...
+2026-07-19 12:38:39,344 - INFO     -    Jokey/Antrenör istatistikleri...
+2026-07-19 12:38:40,145 - INFO     - ✅ 49,972 at │ 840 jokey │ 1,194 antrenör
+2026-07-19 12:38:41,124 - INFO     - 💾 Kaydedildi → at_profilleri.pkl
+2026-07-19 12:38:41,235 - INFO     - 📈 49,972 at │ 840 jokey │ 1,194 antrenör │ 1,148 jokey.txt │ 399 at.txt │ 594 antrenor.txt │ 991 idman.txt
+2026-07-19 12:44:28,445 - INFO     - 📂 Program:1 │ Sonuç:2892
+2026-07-19 12:44:28,480 - INFO     - ✅ jokey.txt: 1148 jokey
+2026-07-19 12:44:28,494 - INFO     - ✅ at.txt: 399 at
+2026-07-19 12:44:28,520 - INFO     - ✅ antrenor.txt: 594 antrenör
+2026-07-19 12:44:28,585 - INFO     - ✅ idman.txt: 1566 at
+2026-07-19 12:44:28,587 - INFO     -    Son 3 günde 1080 at idman yaptı:
+2026-07-19 12:44:28,587 - INFO     -    ARROW STORM          Galop    R   400m@16.0m/s   Sk:0.93
+2026-07-19 12:44:28,595 - INFO     -    MUĞLALI VARGAS       Galop    R   400m@15.9m/s   Sk:1.00
+2026-07-19 12:44:28,595 - INFO     -    ORION BELT           Galop    R   400m@16.2m/s   Sk:1.00
+2026-07-19 12:44:28,603 - INFO     -    YAMAÇ EKREM          Galop    R   400m@16.0m/s   Sk:0.98
+2026-07-19 12:44:28,603 - INFO     -    KHIOS                Galop    R   400m@15.7m/s   Sk:1.00
+2026-07-19 12:44:29,426 - INFO     - ♻️  Önbellekten: 49,972 at
+2026-07-19 12:44:29,733 - INFO     - ♻️  Önbellek geçerli!
+2026-07-19 12:44:29,736 - INFO     - 📈 49,972 at │ 840 jokey │ 1,194 antrenör │ 1,148 jokey.txt │ 399 at.txt │ 594 antrenor.txt │ 1,566 idman.txt
